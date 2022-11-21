@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ITSAppUsesNonExemptEncryption</key>
+		<false/>
+		<key>URL Types</key>
+		<array>
+			<dict>
+				<key>URI Identifier</key>
+				<string>$(BUNDLE_ID)</string>
+				<key>URI scheme</key>
+				<array>
+					<string>$(URI_SCHEME_IOS)</string>
+				</array>
+				<key>Document Role</key>
+				<string>Editor</string>
+			</dict>
+		</array>
+		<key>branch_universal_link_domains</key>
+		<array>
+			<string>$(BRANCH_DOMAIN)</string>
+			<string>$(BRANCH_ALTERNATIVE_DOMAIN)</string>
+		</array>
+		<key>Appboy</key>
+		<dict>
+			<key>LogLevel</key>
+			<string>0</string>
+		</dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>en</string>
+		<key>CFBundleDisplayName</key>
+		<string>$(APP_NAME)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(BUNDLE_ID)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>$(APP_NAME)</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(VERSION_IOS)</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLName</key>
+				<string></string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>$(URI_SCHEME_IOS)</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(BUILD_IOS)</string>
+		<key>Fabric</key>
+		<dict>
+			<key>APIKey</key>
+			<string>81130e95ea13cd7ed9a4f455e96214902c721c99</string>
+			<key>Kits</key>
+			<array>
+				<dict>
+					<key>KitInfo</key>
+					<dict/>
+					<key>KitName</key>
+					<string>Crashlytics</string>
+				</dict>
+			</array>
+		</dict>
+		<key>FacebookAdvertiserIDCollectionEnabled</key>
+		<false/>
+		<key>LSApplicationQueriesSchemes</key>
+		<array>
+			<string>whatsapp</string>
+			<string>facebook</string>
+			<string>twitter</string>
+			<string>mailto</string>
+			<string>instagram</string>
+			<string>instagram-stories</string>
+			<string>fb</string>
+			<string>facebook-stories</string>
+		</array>
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true/>
+		</dict>
+		<key>NSCalendarsUsageDescription</key>
+		<string>Allow $(APP_NAME) to access your calendar</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Enable access so you can take a great picture for your profile</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>We use this to return outlets near you.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>We use this to return outlets near you.</string>
+		<key>NSLocationUsageDescription</key>
+		<string>We use your location to show offers near you.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>We use this to return outlets near you.</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Give $(PRODUCT_NAME) permission to use your microphone</string>
+		<key>NSMotionUsageDescription</key>
+		<string>Allow $(APP_NAME) to access your device&apos;s accelerometer</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Enable access so you can take a great picture for your profile</string>
+		<key>UIAppFonts</key>
+		<array>
+			<string>AntDesign.ttf</string>
+			<string>Entypo.ttf</string>
+			<string>EvilIcons.ttf</string>
+			<string>Feather.ttf</string>
+			<string>FontAwesome.ttf</string>
+			<string>FontAwesome5_Brands.ttf</string>
+			<string>FontAwesome5_Regular.ttf</string>
+			<string>FontAwesome5_Solid.ttf</string>
+			<string>Foundation.ttf</string>
+			<string>Ionicons.ttf</string>
+			<string>MaterialIcons.ttf</string>
+			<string>MaterialCommunityIcons.ttf</string>
+			<string>SimpleLineIcons.ttf</string>
+			<string>Octicons.ttf</string>
+			<string>Zocial.ttf</string>
+			<string>Fontisto.ttf</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>LaunchScreen</string>
+		<key>UIRequiredDeviceCapabilities</key>
+		<array>
+			<string>armv7</string>
+		</array>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false/>
+		<key>branch_key</key>
+		<string>$(BRANCH_KEY)</string>
+	</dict>
+</plist>

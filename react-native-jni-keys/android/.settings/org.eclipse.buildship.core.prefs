@@ -1,0 +1,13 @@
+arguments=--init-script /var/folders/_0/j_411mcj3wb28jxr2bw11rtw0000gp/T/init12815275356320426534.gradle --init-script /var/folders/_0/j_411mcj3wb28jxr2bw11rtw0000gp/T/init3438514974591501465.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.4.2))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true

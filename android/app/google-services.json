@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "348451707",
+    "project_id": "reportage-react-native",
+    "storage_bucket": "reportage-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348451707:android:77c04485604dffccf243de",
+        "android_client_info": {
+          "package_name": "com.theentertainerme.rpeentertaainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348451707-67g02pm9gqehddmc26golfbqasm72rej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theentertainerme.rpeentertaainer",
+            "certificate_hash": "e4792624a9131fe37ecaefd781fbd02b591532fa"
+          }
+        },
+        {
+          "client_id": "348451707-plu9qjvkd6d86u1ubfiuu4itejg783l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe4FR-4B9qfWuQIzrK-MAm9GJLK5jG_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348451707-plu9qjvkd6d86u1ubfiuu4itejg783l8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348451707-evg067161e9ajjv76pfthjgdcc178gjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theentertainerme.rpeentertaainer.ent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348451707:android:a1bfd036f485ed66f243de",
+        "android_client_info": {
+          "package_name": "com.theentertainerme.rpeentertaainer.ent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348451707-8rk6m38h8arnpt4rrgl1dj64sj69mqic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theentertainerme.rpeentertaainer.ent",
+            "certificate_hash": "e4792624a9131fe37ecaefd781fbd02b591532fa"
+          }
+        },
+        {
+          "client_id": "348451707-plu9qjvkd6d86u1ubfiuu4itejg783l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe4FR-4B9qfWuQIzrK-MAm9GJLK5jG_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348451707-plu9qjvkd6d86u1ubfiuu4itejg783l8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348451707-evg067161e9ajjv76pfthjgdcc178gjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theentertainerme.rpeentertaainer.ent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

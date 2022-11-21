@@ -1,0 +1,39 @@
+ENV['SWIFT_VERSION'] = '5'
+require File.join(File.dirname(`node --print "require.resolve('expo/package.json')"`), "scripts/autolinking")
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '12.0'
+
+target 'ftrntemplate' do
+  # React Native Maps dependencies
+  use_expo_modules!
+  rn_maps_path = '../node_modules/react-native-maps'
+  pod 'react-native-google-maps', :path => rn_maps_path
+  
+  config = use_native_modules!
+  use_react_native!(
+      :path => config[:reactNativePath],
+      # to enable hermes on iOS, change `false` to `true` and then install pods
+      :hermes_enabled => false
+    )
+
+  # pod 'ENTERTAINERGetaways', :git => 'https://github.com/theentertainerme/Entertainer-Travel-iOS-SDK.git', :tag => '2.2.8'
+  pod 'TrustKit'
+  pod 'OpenSSL-Universal', '~>1.0.2.20'
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  pod 'Permission-LocationAlways', :path => "#{permissions_path}/LocationAlways"
+  pod 'Permission-LocationWhenInUse', :path => "#{permissions_path}/LocationWhenInUse"
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  # use_unimodules!
+
+
+   # Enables Flipper.
+   #
+   # Note that if you have use_frameworks! enabled, Flipper will not work and
+   # you should disable these next few lines.
+   #use_flipper!()
+   #post_install do |installer|
+   #    react_native_post_install(installer)
+   #end
+end

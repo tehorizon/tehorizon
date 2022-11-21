@@ -1,0 +1,263 @@
+{
+  "code": 0,
+  "http_response": 200,
+  "cmd": "/api_ets/v2/home/?location_id=11&currency=USD&language=en",
+  "data": {
+    "location_version": 1,
+    "app_configuration_version": 1,
+    "home_sections": [
+      {
+        "identifier": "main_cover",
+        "tiles": [
+          {
+            "identifier": "messaging_tile",
+            "main_top_color": "D9FFFFFF",
+            "main_top_image": "https://app-home-tiles.s3.amazonaws.com/white_label_background/back-Img2_cle.jpg",
+            "image": "",
+            "main_top_text_color": "000000",
+            "messages": [
+              "Haven't started saving yet? Use your offers today - go Muhammad!",
+              "You have 0 savings Muhammad. Let's change that today, shall we?",
+              "Hey Muhammad, today looks like a good day to start saving!"
+            ]
+          },
+          {
+            "identifier": "savings_tile",
+            "savings": {
+              "offers_used": 0,
+              "savings_this_year_aed": 0,
+              "savings_this_year_label": "USD SAVED THIS YEAR",
+              "external_savings": 0,
+              "savings_this_year": 0
+            },
+            "image": ""
+          }
+        ],
+        "section_title": "main_cover",
+        "title": "",
+        "section_identifier": "main_cover"
+      },
+      {
+        "is_active": 1,
+        "title": "",
+        "section_identifier": "main_cover",
+        "id": 144,
+        "section_height": 0,
+        "order_id": 1,
+        "location_id": 0,
+        "identifier": "main_cover",
+        "tiles": [
+          {
+            "main_top_image": "https://app-home-tiles.s3.amazonaws.com/white_label_background/back-Img2_cle.jpg",
+            "title": "Dubai Hotels",
+            "deep_link": "https://app-home-tiles.s3.amazonaws.com/white_label_background/banner.png",
+            "messages": [
+              "Haven't started saving yet? Use your offers today - go Muhammad!",
+              "You have 0 savings Muhammad. Let's change that today, shall we?",
+              "Hey Muhammad, today looks like a good day to start saving!"
+            ],
+            "order_id": 103,
+            "location_id": 11,
+            "identifier": "messaging_tile",
+            "is_deep_link": true,
+            "tile_bottom_banner_color": "#00ffffff",
+            "logo": "",
+            "logo_url": "",
+            "is_external_link": 1,
+            "is_active": 1,
+            "section_identifier": "main_cover",
+            "id": 7789,
+            "link_type": "messaging_tile",
+            "description": "",
+            "image": "https://app-home-tiles.s3.amazonaws.com/white_label_background/banner.png",
+            "image_url": "https://app-home-tiles.s3.amazonaws.com/white_label_background/banner.png",
+            "main_top_color": "D9FFFFFF",
+            "tile_id": 7789,
+            "main_top_text_color": "000000",
+            "message": "Dubai Hotels",
+            "synsodyne_code": ""
+          },
+          {
+            "is_external_link": 1,
+            "is_active": 1,
+            "title": "Savings",
+            "is_deep_link": false,
+            "identifier": "savings_tile",
+            "deep_link": "",
+            "id": 7786,
+            "link_type": "savings_tile",
+            "location_id": 11,
+            "order_id": 104,
+            "description": "",
+            "image": "",
+            "image_url": "",
+            "logo": "",
+            "tile_id": 7786,
+            "tile_bottom_banner_color": "#00ffffff",
+            "section_identifier": "main_cover",
+            "logo_url": "",
+            "message": "Savings",
+            "savings": {
+              "offers_used": 0,
+              "savings_this_year_aed": 0,
+              "savings_this_year_label": "USD SAVED THIS YEAR",
+              "external_savings": 0,
+              "savings_this_year": 0
+            }
+          }
+        ],
+        "section_title_color": "FFFFFF",
+        "user_group": 0,
+        "company": "cle",
+        "section_width": 0,
+        "section_bg_color": "616163"
+      },
+      {
+        "is_active": 1,
+        "title": "",
+        "section_identifier": "categories",
+        "id": 143,
+        "section_height": 0,
+        "order_id": 2,
+        "location_id": 0,
+        "identifier": "categories",
+        "tiles": [
+          {
+            "category_id": 4,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_food@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "FD",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/food.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_food.png",
+            "category_color": "4f98d1",
+            "display_name": "FOOD & BEVERAGES",
+            "tile_id": 1,
+            "api_name": "Restaurants and Bars",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_food@2x.png"
+          },
+          {
+            "category_id": 1,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_body@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "BF",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/body.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_body.png",
+            "category_color": "c6328a",
+            "display_name": "BEAUTY & FITNESS",
+            "tile_id": 1,
+            "api_name": "Body",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_body@2x.png"
+          },
+          {
+            "category_id": 3,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_leisure@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "AL",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/leisure.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_leisure.png",
+            "category_color": "89c767",
+            "display_name": "ATTRACTIONS & LEISURE",
+            "tile_id": 1,
+            "api_name": "Leisure",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_leisure@2x.png"
+          },
+          {
+            "category_id": 7,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_retail@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "FR",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/retail.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_retail.png",
+            "category_color": "A662CC",
+            "display_name": "FASHION & RETAIL",
+            "tile_id": 1,
+            "api_name": "Retail",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_retail@2x.png"
+          },
+          {
+            "category_id": 5,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_services@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "ES",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/services.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_services.png",
+            "category_color": "20909a",
+            "display_name": "EVERYDAY SERVICES",
+            "tile_id": 1,
+            "api_name": "Services",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_services@2x.png"
+          },
+          {
+            "category_id": 6,
+            "is_free": false,
+            "map_pin_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_travel@2x.png",
+            "title_color": "f99f1c",
+            "analytics_category_name": "HW",
+            "image": "https://s3.amazonaws.com/entertainer-app-assets/categories/travel.png",
+            "featured_merchant_icon_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/ribbons/cat_ribbon_travel.png",
+            "category_color": "b1975c",
+            "display_name": "TRAVEL",
+            "tile_id": 1,
+            "api_name": "Travel",
+            "banner_image": "",
+            "map_pin_invalid_url": "https://s3.amazonaws.com/entertainer-app-assets/categories/pins/cat_pin_invalid_travel@2x.png"
+          }
+        ],
+        "section_title_color": "FFFFFF",
+        "user_group": 0,
+        "company": "cle",
+        "section_width": 0,
+        "section_bg_color": "616163"
+      },
+      {
+        "is_active": 1,
+        "title": "Featured",
+        "section_identifier": "featured",
+        "id": 235,
+        "section_height": 0,
+        "order_id": 3,
+        "location_id": 0,
+        "identifier": "featured_sections",
+        "tiles": [
+          {
+            "is_external_link": 1,
+            "is_active": 1,
+            "title": "Takeaway",
+            "is_deep_link": true,
+            "deep_link": "cleentertainer://appsearch?search=takeaway&category=FoodAndDrink",
+            "id": 11181,
+            "link_type": "featured",
+            "location_id": 11,
+            "order_id": 99,
+            "description": "",
+            "image": "https://app-home-tiles.s3.amazonaws.com/new_featured/dqb/Takeaway_Tiles.jpg",
+            "image_url": "https://app-home-tiles.s3.amazonaws.com/new_featured/dqb/Takeaway_Tiles.jpg",
+            "logo": "",
+            "tile_id": 11181,
+            "tile_bottom_banner_color": "#00ffffff",
+            "section_identifier": "featured",
+            "logo_url": "",
+            "message": "Takeaway"
+          }
+        ],
+        "section_title_color": "FFFFFF",
+        "user_group": 0,
+        "company": "CLE",
+        "section_width": 0,
+        "section_bg_color": "e02414"
+      }
+    ]
+  },
+  "message": "success",
+  "success": true
+}

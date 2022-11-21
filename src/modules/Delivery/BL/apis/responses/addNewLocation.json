@@ -1,0 +1,21 @@
+{
+    "message": "Delivery address added.",
+    "success": true,
+    "data": {
+        "tag_id": 1,
+        "title": "Home",
+        "home_office_address": "Test",
+        "street": null,
+        "area_city": "Plot 56, Block A Valencia, Lahore, Punjab, Pakistan",
+        "special_instructions": "Testing",
+        "latitude": "31.410174373936623",
+        "longitude": "74.26211412996054",
+        "company": "ENTERTAINER X Circles.Life",
+        "user_id": 9109734,
+        "is_active": true,
+        "id": 220499
+    },
+    "code": 0,
+    "cmd": "/et_rs_prd/wl/v67/user/add_delivery_location?",
+    "http_response": 200
+}

@@ -1,0 +1,1704 @@
+{
+  "filter": [
+    {
+      "category_id": 1,
+      "category_name": "Body",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 1,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Body_1_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 1,
+          "section_name": "\u0627\u0644\u0646\u0648\u0639",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Body_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Body_6",
+              "key": "Beauty, Hair & Nails",
+              "name": "\u062a\u062c\u0645\u064a\u0644 \u0648\u0634\u0639\u0631 \u0648\u0623\u0638\u0627\u0641\u0631"
+            },
+            {
+              "uid": "2_Body_15",
+              "key": "Health & Fitness",
+              "name": "\u0635\u062d\u0629 \u0648\u0644\u064a\u0627\u0642\u0629 \u0628\u062f\u0646\u064a\u0629"
+            },
+            {
+              "uid": "3_Body_182",
+              "key": "Medical & Dental ",
+              "name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0648\u0639\u0644\u0627\u062c \u0627\u0644\u0623\u0633\u0646\u0627\u0646"
+            },
+            {
+              "uid": "4_Body_21",
+              "key": "Men's Grooming",
+              "name": "\u0639\u0646\u0627\u064a\u0629 \u0628\u062c\u0645\u0627\u0644 \u0627\u0644\u0631\u062c\u0627\u0644"
+            },
+            {
+              "uid": "5_Body_24",
+              "key": "Spas",
+              "name": "\u0645\u0631\u0627\u0643\u0632 \u0633\u0628\u0627 "
+            }
+          ]
+        },
+        {
+          "section_order_id": 3,
+          "category_id": 1,
+          "section_name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Body_3_by_appointment_only",
+              "key": "by_appointment_only",
+              "name": "\u0628\u0645\u0648\u0639\u062f \u0645\u0633\u0628\u0642 \u0641\u0642\u0637",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/by_appointment_only.png"
+            },
+            {
+              "uid": "1_Body_6_couples_friendly",
+              "key": "couples_friendly",
+              "name": "\u0645\u0646\u0627\u0633\u0628 \u0644\u0644\u0623\u0632\u0648\u0627\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/couples_friendly.png"
+            },
+            {
+              "uid": "2_Body_9_indoor_facilities",
+              "key": "indoor_facilities",
+              "name": "\u0645\u0631\u0627\u0641\u0642 \u0641\u064a \u0627\u0644\u062f\u0627\u062e\u0644",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/indoor_facilities.png"
+            },
+            {
+              "uid": "3_Body_12_outdoor_facilities",
+              "key": "outdoor_facilities",
+              "name": "\u0645\u0631\u0627\u0641\u0642 \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_facilities.png"
+            },
+            {
+              "uid": "4_Body_15_refreshments",
+              "key": "refreshments",
+              "name": "\u0645\u0631\u0637\u0628\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/refreshments.png"
+            },
+            {
+              "uid": "5_Body_18_certified",
+              "key": "certified",
+              "name": "\u0645\u0639\u062a\u0645\u062f",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/certified.png"
+            },
+            {
+              "uid": "6_Body_21_female_only",
+              "key": "female_only",
+              "name": "\u0644\u0644\u0646\u0633\u0627\u0621 \u0641\u0642\u0637",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/female_only.png"
+            },
+            {
+              "uid": "7_Body_27_parking",
+              "key": "parking",
+              "name": "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/parking.png"
+            },
+            {
+              "uid": "8_Body_30_valet_parking",
+              "key": "valet_parking",
+              "name": "\u062e\u062f\u0645\u0629 \u0631\u0635\u0641 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/valet_parking.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Leisure",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 3,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Leisure_3_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 3,
+          "section_name": "\u0627\u0644\u0646\u0648\u0639",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Leisure_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Leisure_51",
+              "key": "Attractions",
+              "name": "\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u062c\u0630\u0628"
+            },
+            {
+              "uid": "2_Leisure_54",
+              "key": "Cinema & Theatre",
+              "name": "\u0627\u0644\u0633\u064a\u0646\u0645\u0627 \u0648\u0627\u0644\u0645\u0633\u0631\u062d"
+            },
+            {
+              "uid": "3_Leisure_57",
+              "key": "Creative Arts & Education",
+              "name": "\u0641\u0646\u0648\u0646 \u0625\u0628\u062f\u0627\u0639\u064a\u0629 \u0648\u062a\u0639\u0644\u064a\u0645"
+            },
+            {
+              "uid": "4_Leisure_60",
+              "key": "Culture & Heritage",
+              "name": "\u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0648\u0627\u0644\u062a\u0631\u0627\u062b"
+            },
+            {
+              "uid": "5_Leisure_185",
+              "key": "Live Events",
+              "name": "\u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0627\u062a \u0627\u0644\u062d\u064a\u0629"
+            },
+            {
+              "uid": "6_Leisure_63",
+              "key": "Sports & Leisure",
+              "name": "\u0627\u0644\u0631\u064a\u0627\u0636\u0627\u062a \u0648\u0627\u0644\u062a\u0631\u0641\u064a\u0647"
+            }
+          ]
+        },
+        {
+          "section_order_id": 3,
+          "category_id": 3,
+          "section_name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Leisure_108_age_restrictions",
+              "key": "age_restrictions",
+              "name": "\u0642\u064a\u0648\u062f \u0627\u0644\u0639\u0645\u0631",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/age_restrictions.png"
+            },
+            {
+              "uid": "1_Leisure_120_height_restrictions",
+              "key": "height_restrictions",
+              "name": "\u0642\u064a\u0648\u062f \u0644\u0644\u0627\u0631\u062a\u0641\u0627\u0639",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/height_restrictions.png"
+            },
+            {
+              "uid": "2_Leisure_123_indoor_activities",
+              "key": "indoor_activities",
+              "name": "\u0646\u0634\u0627\u0637\u0627\u062a \u0641\u064a \u0627\u0644\u062f\u0627\u062e\u0644 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/indoor_activities.png"
+            },
+            {
+              "uid": "3_Leisure_126_kids_welcome",
+              "key": "kids_welcome",
+              "name": "\u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0623\u0648\u0644\u0627\u062f",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/kids_welcome.png"
+            },
+            {
+              "uid": "4_Leisure_132_outdoor_activities",
+              "key": "outdoor_activities",
+              "name": "\u0646\u0634\u0627\u0637\u0627\u062a \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_activities.png"
+            },
+            {
+              "uid": "5_Leisure_135_parking",
+              "key": "parking",
+              "name": "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/parking.png"
+            },
+            {
+              "uid": "6_Leisure_141_valet_parking",
+              "key": "valet_parking",
+              "name": "\u062e\u062f\u0645\u0629 \u0631\u0635\u0641 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/valet_parking.png"
+            },
+            {
+              "uid": "8_Leisure_159_indoor_play_area",
+              "key": "indoor_play_area",
+              "name": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0627\u0628 \u062f\u0627\u062e\u0644\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/indoor_play_area.png"
+            },
+            {
+              "uid": "9_Leisure_162_live_entertainment",
+              "key": "live_entertainment",
+              "name": "\u062a\u0631\u0641\u064a\u0647 \u0645\u0628\u0627\u0634\u0631",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/live_entertainment.png"
+            },
+            {
+              "uid": "10_Leisure_165_outdoor_cooling",
+              "key": "outdoor_cooling",
+              "name": "\u062a\u0628\u0631\u064a\u062f \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_cooling.png"
+            },
+            {
+              "uid": "11_Leisure_168_outdoor_play_area",
+              "key": "outdoor_play_area",
+              "name": "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u062e\u0627\u0631\u062c\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_play_area.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category_name": "Restaurants and Bars",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 4,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Restaurants_and_Bars_4_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 4,
+          "section_name": "\u0627\u0644\u0646\u0648\u0639",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Restaurants_and_Bars_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Restaurants_and_Bars_66",
+              "key": "Caf\u00e9s",
+              "name": "\u0645\u0642\u0627\u0647\u064a"
+            },
+            {
+              "uid": "2_Restaurants_and_Bars_69",
+              "key": "Casual Dining",
+              "name": "\u0627\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629"
+            },
+            {
+              "uid": "3_Restaurants_and_Bars_75",
+              "key": "Fine Dining",
+              "name": "\u0645\u0637\u0627\u0639\u0645 \u0641\u0627\u062e\u0631\u0629"
+            },
+            {
+              "uid": "4_Restaurants_and_Bars_78",
+              "key": "Informal Dining & Takeaway",
+              "name": "\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629 \u0648\u0637\u0644\u0628\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0629"
+            },
+            {
+              "uid": "5_Restaurants_and_Bars_72",
+              "key": "Pubs, Bars & Clubs",
+              "name": "\u0627\u0644\u062d\u0627\u0646\u0627\u062a \u0648\u0627\u0644\u0628\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u0646\u0648\u0627\u062f\u064a \u0627\u0644\u0644\u064a\u0644\u064a\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 3,
+          "category_id": 4,
+          "section_name": "\u0646\u0648\u0639 \u0627\u0644\u0645\u0637\u0628\u062e",
+          "selection_type": 2,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Restaurants_and_Bars_0_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u064a\u0631\u0643\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u064a\u0631\u0643\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u064a\u0631\u0643\u064a\u0629"
+            },
+            {
+              "uid": "1_Restaurants_and_Bars_1_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0631\u0628\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0631\u0628\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0631\u0628\u064a\u0629"
+            },
+            {
+              "uid": "2_Restaurants_and_Bars_2_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u064a\u0646\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u064a\u0646\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u064a\u0646\u064a\u0629"
+            },
+            {
+              "uid": "3_Restaurants_and_Bars_3_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0647\u0646\u062f\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0647\u0646\u062f\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0647\u0646\u062f\u064a\u0629"
+            },
+            {
+              "uid": "4_Restaurants_and_Bars_4_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0625\u064a\u0637\u0627\u0644\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0625\u064a\u0637\u0627\u0644\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0625\u064a\u0637\u0627\u0644\u064a\u0629"
+            },
+            {
+              "uid": "5_Restaurants_and_Bars_5_-",
+              "key": "-",
+              "name": "-"
+            },
+            {
+              "uid": "6_Restaurants_and_Bars_6_Bar Food",
+              "key": "Bar Food",
+              "name": "Bar Food"
+            },
+            {
+              "uid": "7_Restaurants_and_Bars_7_Beverages",
+              "key": "Beverages",
+              "name": "Beverages"
+            },
+            {
+              "uid": "8_Restaurants_and_Bars_8_Brazilian",
+              "key": "Brazilian",
+              "name": "Brazilian"
+            },
+            {
+              "uid": "9_Restaurants_and_Bars_9_Caf\u00e9",
+              "key": "Caf\u00e9",
+              "name": "Caf\u00e9"
+            },
+            {
+              "uid": "10_Restaurants_and_Bars_10_German",
+              "key": "German",
+              "name": "German"
+            },
+            {
+              "uid": "11_Restaurants_and_Bars_11_Indian",
+              "key": "Indian",
+              "name": "Indian"
+            },
+            {
+              "uid": "12_Restaurants_and_Bars_12_International",
+              "key": "International",
+              "name": "International"
+            },
+            {
+              "uid": "13_Restaurants_and_Bars_13_Italian",
+              "key": "Italian",
+              "name": "Italian"
+            },
+            {
+              "uid": "14_Restaurants_and_Bars_14_Mediterranean",
+              "key": "Mediterranean",
+              "name": "Mediterranean"
+            },
+            {
+              "uid": "15_Restaurants_and_Bars_15_Other",
+              "key": "Other",
+              "name": "Other"
+            },
+            {
+              "uid": "16_Restaurants_and_Bars_16_Pan-Asian",
+              "key": "Pan-Asian",
+              "name": "Pan-Asian"
+            },
+            {
+              "uid": "17_Restaurants_and_Bars_17_Persian",
+              "key": "Persian",
+              "name": "Persian"
+            },
+            {
+              "uid": "18_Restaurants_and_Bars_18_Spanish",
+              "key": "Spanish",
+              "name": "Spanish"
+            },
+            {
+              "uid": "19_Restaurants_and_Bars_19_Vegetarian",
+              "key": "Vegetarian",
+              "name": "Vegetarian"
+            },
+            {
+              "uid": "20_Restaurants_and_Bars_20_\u0622\u062e\u0631\u0649",
+              "key": "\u0622\u062e\u0631\u0649",
+              "name": "\u0622\u062e\u0631\u0649"
+            },
+            {
+              "uid": "21_Restaurants_and_Bars_21_\u0622\u0633\u064a\u0648\u064a",
+              "key": "\u0622\u0633\u064a\u0648\u064a",
+              "name": "\u0622\u0633\u064a\u0648\u064a"
+            },
+            {
+              "uid": "22_Restaurants_and_Bars_22_\u0622\u0634\u064a\u0646 \u0641\u064a\u0634\u0648\u0646",
+              "key": "\u0622\u0634\u064a\u0646 \u0641\u064a\u0634\u0648\u0646",
+              "name": "\u0622\u0634\u064a\u0646 \u0641\u064a\u0634\u0648\u0646"
+            },
+            {
+              "uid": "23_Restaurants_and_Bars_23_\u0622\u0634\u064a\u0646 \u0641\u064a\u0648\u0634\u0646",
+              "key": "\u0622\u0634\u064a\u0646 \u0641\u064a\u0648\u0634\u0646",
+              "name": "\u0622\u0634\u064a\u0646 \u0641\u064a\u0648\u0634\u0646"
+            },
+            {
+              "uid": "24_Restaurants_and_Bars_24_\u0622\u064a\u0633 \u0643\u0631\u064a\u0645",
+              "key": "\u0622\u064a\u0633 \u0643\u0631\u064a\u0645",
+              "name": "\u0622\u064a\u0633 \u0643\u0631\u064a\u0645"
+            },
+            {
+              "uid": "25_Restaurants_and_Bars_25_\u0623\u062e\u0631\u0649",
+              "key": "\u0623\u062e\u0631\u0649",
+              "name": "\u0623\u062e\u0631\u0649"
+            },
+            {
+              "uid": "26_Restaurants_and_Bars_26_\u0623\u0631\u062c\u0646\u062a\u064a\u0646\u064a",
+              "key": "\u0623\u0631\u062c\u0646\u062a\u064a\u0646\u064a",
+              "name": "\u0623\u0631\u062c\u0646\u062a\u064a\u0646\u064a"
+            },
+            {
+              "uid": "27_Restaurants_and_Bars_27_\u0623\u0633\u0628\u0627\u0646\u064a",
+              "key": "\u0623\u0633\u0628\u0627\u0646\u064a",
+              "name": "\u0623\u0633\u0628\u0627\u0646\u064a"
+            },
+            {
+              "uid": "28_Restaurants_and_Bars_28_\u0623\u0633\u064a\u0648\u064a",
+              "key": "\u0623\u0633\u064a\u0648\u064a",
+              "name": "\u0623\u0633\u064a\u0648\u064a"
+            },
+            {
+              "uid": "29_Restaurants_and_Bars_29_\u0623\u0641\u0631\u064a\u0642\u064a",
+              "key": "\u0623\u0641\u0631\u064a\u0642\u064a",
+              "name": "\u0623\u0641\u0631\u064a\u0642\u064a"
+            },
+            {
+              "uid": "30_Restaurants_and_Bars_30_\u0623\u0644\u0645\u0627\u0646\u064a",
+              "key": "\u0623\u0644\u0645\u0627\u0646\u064a",
+              "name": "\u0623\u0644\u0645\u0627\u0646\u064a"
+            },
+            {
+              "uid": "31_Restaurants_and_Bars_31_\u0623\u0645\u0631\u064a\u0643\u064a",
+              "key": "\u0623\u0645\u0631\u064a\u0643\u064a",
+              "name": "\u0623\u0645\u0631\u064a\u0643\u064a"
+            },
+            {
+              "uid": "32_Restaurants_and_Bars_32_\u0623\u0645\u0631\u064a\u0643\u064a \u0644\u0627\u062a\u064a\u0646\u064a",
+              "key": "\u0623\u0645\u0631\u064a\u0643\u064a \u0644\u0627\u062a\u064a\u0646\u064a",
+              "name": "\u0623\u0645\u0631\u064a\u0643\u064a \u0644\u0627\u062a\u064a\u0646\u064a"
+            },
+            {
+              "uid": "33_Restaurants_and_Bars_33_\u0623\u0648\u0631\u0648\u0628\u064a",
+              "key": "\u0623\u0648\u0631\u0648\u0628\u064a",
+              "name": "\u0623\u0648\u0631\u0648\u0628\u064a"
+            },
+            {
+              "uid": "34_Restaurants_and_Bars_34_\u0623\u064a\u0633 \u0643\u0631\u064a\u0645",
+              "key": "\u0623\u064a\u0633 \u0643\u0631\u064a\u0645",
+              "name": "\u0623\u064a\u0633 \u0643\u0631\u064a\u0645"
+            },
+            {
+              "uid": "35_Restaurants_and_Bars_35_\u0625\u0645\u0627\u0631\u0627\u062a\u064a",
+              "key": "\u0625\u0645\u0627\u0631\u0627\u062a\u064a",
+              "name": "\u0625\u0645\u0627\u0631\u0627\u062a\u064a"
+            },
+            {
+              "uid": "36_Restaurants_and_Bars_36_\u0625\u064a\u0631\u0627\u0646\u064a",
+              "key": "\u0625\u064a\u0631\u0627\u0646\u064a",
+              "name": "\u0625\u064a\u0631\u0627\u0646\u064a"
+            },
+            {
+              "uid": "37_Restaurants_and_Bars_37_\u0625\u064a\u0637\u0627\u0644\u064a",
+              "key": "\u0625\u064a\u0637\u0627\u0644\u064a",
+              "name": "\u0625\u064a\u0637\u0627\u0644\u064a"
+            },
+            {
+              "uid": "38_Restaurants_and_Bars_38_\u0627\u062e\u0631\u064a",
+              "key": "\u0627\u062e\u0631\u064a",
+              "name": "\u0627\u062e\u0631\u064a"
+            },
+            {
+              "uid": "39_Restaurants_and_Bars_39_\u0627\u0633\u064a\u0648\u064a",
+              "key": "\u0627\u0633\u064a\u0648\u064a",
+              "name": "\u0627\u0633\u064a\u0648\u064a"
+            },
+            {
+              "uid": "40_Restaurants_and_Bars_40_\u0627\u0641\u0631\u064a\u0642\u064a",
+              "key": "\u0627\u0641\u0631\u064a\u0642\u064a",
+              "name": "\u0627\u0641\u0631\u064a\u0642\u064a"
+            },
+            {
+              "uid": "41_Restaurants_and_Bars_41_\u0627\u0644\u062d\u0644\u0648\u064a\u0627\u062a",
+              "key": "\u0627\u0644\u062d\u0644\u0648\u064a\u0627\u062a",
+              "name": "\u0627\u0644\u062d\u0644\u0648\u064a\u0627\u062a"
+            },
+            {
+              "uid": "42_Restaurants_and_Bars_42_\u0627\u0644\u0637\u0639\u0627\u0645 \u0627\u0644\u0633\u0631\u064a\u0639",
+              "key": "\u0627\u0644\u0637\u0639\u0627\u0645 \u0627\u0644\u0633\u0631\u064a\u0639",
+              "name": "\u0627\u0644\u0637\u0639\u0627\u0645 \u0627\u0644\u0633\u0631\u064a\u0639"
+            },
+            {
+              "uid": "43_Restaurants_and_Bars_43_\u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a",
+              "key": "\u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a",
+              "name": "\u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a"
+            },
+            {
+              "uid": "44_Restaurants_and_Bars_44_\u0627\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629",
+              "key": "\u0627\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629",
+              "name": "\u0627\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629"
+            },
+            {
+              "uid": "45_Restaurants_and_Bars_45_\u0627\u0644\u0645\u062e\u0628\u0648\u0632\u0627\u062a",
+              "key": "\u0627\u0644\u0645\u062e\u0628\u0648\u0632\u0627\u062a",
+              "name": "\u0627\u0644\u0645\u062e\u0628\u0648\u0632\u0627\u062a"
+            },
+            {
+              "uid": "46_Restaurants_and_Bars_46_\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a",
+              "key": "\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a",
+              "name": "\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a"
+            },
+            {
+              "uid": "47_Restaurants_and_Bars_47_\u0627\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629",
+              "key": "\u0627\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629",
+              "name": "\u0627\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629"
+            },
+            {
+              "uid": "48_Restaurants_and_Bars_48_\u0627\u0644\u0645\u0642\u0627\u0647\u064a",
+              "key": "\u0627\u0644\u0645\u0642\u0627\u0647\u064a",
+              "name": "\u0627\u0644\u0645\u0642\u0627\u0647\u064a"
+            },
+            {
+              "uid": "49_Restaurants_and_Bars_49_\u0627\u0644\u0645\u0642\u0647\u0649",
+              "key": "\u0627\u0644\u0645\u0642\u0647\u0649",
+              "name": "\u0627\u0644\u0645\u0642\u0647\u0649"
+            },
+            {
+              "uid": "50_Restaurants_and_Bars_50_\u0627\u0644\u0645\u0643\u0633\u064a\u0643\u064a",
+              "key": "\u0627\u0644\u0645\u0643\u0633\u064a\u0643\u064a",
+              "name": "\u0627\u0644\u0645\u0643\u0633\u064a\u0643\u064a"
+            },
+            {
+              "uid": "51_Restaurants_and_Bars_51_\u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a",
+              "key": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a",
+              "name": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a"
+            },
+            {
+              "uid": "52_Restaurants_and_Bars_52_\u0627\u0644\u064a\u0627\u0644\u0628\u0627\u0646\u064a",
+              "key": "\u0627\u0644\u064a\u0627\u0644\u0628\u0627\u0646\u064a",
+              "name": "\u0627\u0644\u064a\u0627\u0644\u0628\u0627\u0646\u064a"
+            },
+            {
+              "uid": "53_Restaurants_and_Bars_53_\u0627\u0645\u0631\u064a\u0643\u064a",
+              "key": "\u0627\u0645\u0631\u064a\u0643\u064a",
+              "name": "\u0627\u0645\u0631\u064a\u0643\u064a"
+            },
+            {
+              "uid": "54_Restaurants_and_Bars_54_\u0627\u0646\u062f\u0645\u0627\u062c\u064a \u0622\u0633\u064a\u0648\u064a",
+              "key": "\u0627\u0646\u062f\u0645\u0627\u062c\u064a \u0622\u0633\u064a\u0648\u064a",
+              "name": "\u0627\u0646\u062f\u0645\u0627\u062c\u064a \u0622\u0633\u064a\u0648\u064a"
+            },
+            {
+              "uid": "55_Restaurants_and_Bars_55_\u0627\u0648\u0631\u0648\u0628\u064a",
+              "key": "\u0627\u0648\u0631\u0648\u0628\u064a",
+              "name": "\u0627\u0648\u0631\u0648\u0628\u064a"
+            },
+            {
+              "uid": "56_Restaurants_and_Bars_56_\u0627\u064a\u0637\u0627\u0644\u064a",
+              "key": "\u0627\u064a\u0637\u0627\u0644\u064a",
+              "name": "\u0627\u064a\u0637\u0627\u0644\u064a"
+            },
+            {
+              "uid": "57_Restaurants_and_Bars_57_\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637",
+              "key": "\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637",
+              "name": "\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637"
+            },
+            {
+              "uid": "58_Restaurants_and_Bars_58_\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637\u064a",
+              "key": "\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637\u064a",
+              "name": "\u0628\u062d\u0631 \u0645\u062a\u0648\u0633\u0637\u064a"
+            },
+            {
+              "uid": "59_Restaurants_and_Bars_59_\u0628\u0631\u0627\u0632\u064a\u0644\u064a",
+              "key": "\u0628\u0631\u0627\u0632\u064a\u0644\u064a",
+              "name": "\u0628\u0631\u0627\u0632\u064a\u0644\u064a"
+            },
+            {
+              "uid": "60_Restaurants_and_Bars_60_\u0628\u0631\u062a\u063a\u0627\u0644\u064a",
+              "key": "\u0628\u0631\u062a\u063a\u0627\u0644\u064a",
+              "name": "\u0628\u0631\u062a\u063a\u0627\u0644\u064a"
+            },
+            {
+              "uid": "61_Restaurants_and_Bars_61_\u0628\u0631\u064a\u0637\u0627\u0646\u064a",
+              "key": "\u0628\u0631\u064a\u0637\u0627\u0646\u064a",
+              "name": "\u0628\u0631\u064a\u0637\u0627\u0646\u064a"
+            },
+            {
+              "uid": "62_Restaurants_and_Bars_62_\u0628\u0644\u062c\u064a\u0643\u064a",
+              "key": "\u0628\u0644\u062c\u064a\u0643\u064a",
+              "name": "\u0628\u0644\u062c\u064a\u0643\u064a"
+            },
+            {
+              "uid": "63_Restaurants_and_Bars_63_\u0628\u064a\u062a\u0632\u0627",
+              "key": "\u0628\u064a\u062a\u0632\u0627",
+              "name": "\u0628\u064a\u062a\u0632\u0627"
+            },
+            {
+              "uid": "64_Restaurants_and_Bars_64_\u0628\u064a\u0631\u0648",
+              "key": "\u0628\u064a\u0631\u0648",
+              "name": "\u0628\u064a\u0631\u0648"
+            },
+            {
+              "uid": "65_Restaurants_and_Bars_65_\u0628\u064a\u0631\u0648\u0641\u064a",
+              "key": "\u0628\u064a\u0631\u0648\u0641\u064a",
+              "name": "\u0628\u064a\u0631\u0648\u0641\u064a"
+            },
+            {
+              "uid": "66_Restaurants_and_Bars_66_\u062a\u0627\u0628\u0627\u0633",
+              "key": "\u062a\u0627\u0628\u0627\u0633",
+              "name": "\u062a\u0627\u0628\u0627\u0633"
+            },
+            {
+              "uid": "67_Restaurants_and_Bars_67_\u062a\u0627\u064a\u0644\u0627\u0646\u062f\u064a",
+              "key": "\u062a\u0627\u064a\u0644\u0627\u0646\u062f\u064a",
+              "name": "\u062a\u0627\u064a\u0644\u0627\u0646\u062f\u064a"
+            },
+            {
+              "uid": "68_Restaurants_and_Bars_68_\u062a\u0631\u0643\u064a",
+              "key": "\u062a\u0631\u0643\u064a",
+              "name": "\u062a\u0631\u0643\u064a"
+            },
+            {
+              "uid": "69_Restaurants_and_Bars_69_\u062d\u0644\u0648\u064a\u0627\u062a",
+              "key": "\u062d\u0644\u0648\u064a\u0627\u062a",
+              "name": "\u062d\u0644\u0648\u064a\u0627\u062a"
+            },
+            {
+              "uid": "70_Restaurants_and_Bars_70_\u062f\u0648\u0644\u064a",
+              "key": "\u062f\u0648\u0644\u064a",
+              "name": "\u062f\u0648\u0644\u064a"
+            },
+            {
+              "uid": "71_Restaurants_and_Bars_71_\u0631\u0648\u0633\u064a",
+              "key": "\u0631\u0648\u0633\u064a",
+              "name": "\u0631\u0648\u0633\u064a"
+            },
+            {
+              "uid": "72_Restaurants_and_Bars_72_\u0632\u0628\u0627\u062f\u064a",
+              "key": "\u0632\u0628\u0627\u062f\u064a",
+              "name": "\u0632\u0628\u0627\u062f\u064a"
+            },
+            {
+              "uid": "73_Restaurants_and_Bars_73_\u0633\u062a\u064a\u0643 \u0647\u0627\u0648\u0633",
+              "key": "\u0633\u062a\u064a\u0643 \u0647\u0627\u0648\u0633",
+              "name": "\u0633\u062a\u064a\u0643 \u0647\u0627\u0648\u0633"
+            },
+            {
+              "uid": "74_Restaurants_and_Bars_74_\u0634\u0631\u0642 \u0623\u0648\u0633\u0637",
+              "key": "\u0634\u0631\u0642 \u0623\u0648\u0633\u0637",
+              "name": "\u0634\u0631\u0642 \u0623\u0648\u0633\u0637"
+            },
+            {
+              "uid": "75_Restaurants_and_Bars_75_\u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a",
+              "key": "\u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a",
+              "name": "\u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a"
+            },
+            {
+              "uid": "76_Restaurants_and_Bars_76_\u0635\u062d\u064a",
+              "key": "\u0635\u062d\u064a",
+              "name": "\u0635\u062d\u064a"
+            },
+            {
+              "uid": "77_Restaurants_and_Bars_77_\u0635\u064a\u0646\u064a",
+              "key": "\u0635\u064a\u0646\u064a",
+              "name": "\u0635\u064a\u0646\u064a"
+            },
+            {
+              "uid": "78_Restaurants_and_Bars_78_\u0637\u0639\u0627\u0645 \u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "key": "\u0637\u0639\u0627\u0645 \u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "name": "\u0637\u0639\u0627\u0645 \u0627\u0644\u062d\u0627\u0646\u0627\u062a"
+            },
+            {
+              "uid": "79_Restaurants_and_Bars_79_\u0639\u0631\u0628\u0649",
+              "key": "\u0639\u0631\u0628\u0649",
+              "name": "\u0639\u0631\u0628\u0649"
+            },
+            {
+              "uid": "80_Restaurants_and_Bars_80_\u0639\u0631\u0628\u064a",
+              "key": "\u0639\u0631\u0628\u064a",
+              "name": "\u0639\u0631\u0628\u064a"
+            },
+            {
+              "uid": "81_Restaurants_and_Bars_81_\u0639\u0636\u0648\u064a",
+              "key": "\u0639\u0636\u0648\u064a",
+              "name": "\u0639\u0636\u0648\u064a"
+            },
+            {
+              "uid": "82_Restaurants_and_Bars_82_\u0641\u0627\u0631\u0633\u064a",
+              "key": "\u0641\u0627\u0631\u0633\u064a",
+              "name": "\u0641\u0627\u0631\u0633\u064a"
+            },
+            {
+              "uid": "83_Restaurants_and_Bars_83_\u0641\u0631\u0646\u0633\u064a",
+              "key": "\u0641\u0631\u0646\u0633\u064a",
+              "name": "\u0641\u0631\u0646\u0633\u064a"
+            },
+            {
+              "uid": "84_Restaurants_and_Bars_84_\u0641\u0644\u0628\u064a\u0646\u064a",
+              "key": "\u0641\u0644\u0628\u064a\u0646\u064a",
+              "name": "\u0641\u0644\u0628\u064a\u0646\u064a"
+            },
+            {
+              "uid": "85_Restaurants_and_Bars_85_\u0641\u0644\u064a\u0628\u064a\u0646\u064a",
+              "key": "\u0641\u0644\u064a\u0628\u064a\u0646\u064a",
+              "name": "\u0641\u0644\u064a\u0628\u064a\u0646\u064a"
+            },
+            {
+              "uid": "86_Restaurants_and_Bars_86_\u0641\u064a\u062a\u0646\u0627\u0645\u064a",
+              "key": "\u0641\u064a\u062a\u0646\u0627\u0645\u064a",
+              "name": "\u0641\u064a\u062a\u0646\u0627\u0645\u064a"
+            },
+            {
+              "uid": "87_Restaurants_and_Bars_87_\u0643\u0627\u0631\u064a\u0628\u064a",
+              "key": "\u0643\u0627\u0631\u064a\u0628\u064a",
+              "name": "\u0643\u0627\u0631\u064a\u0628\u064a"
+            },
+            {
+              "uid": "88_Restaurants_and_Bars_88_\u0643\u0627\u0641\u064a\u0647",
+              "key": "\u0643\u0627\u0641\u064a\u0647",
+              "name": "\u0643\u0627\u0641\u064a\u0647"
+            },
+            {
+              "uid": "89_Restaurants_and_Bars_89_\u0644\u0627\u062a\u064a\u0646\u064a",
+              "key": "\u0644\u0627\u062a\u064a\u0646\u064a",
+              "name": "\u0644\u0627\u062a\u064a\u0646\u064a"
+            },
+            {
+              "uid": "90_Restaurants_and_Bars_90_\u0644\u0628\u0646\u0627\u0646\u064a",
+              "key": "\u0644\u0628\u0646\u0627\u0646\u064a",
+              "name": "\u0644\u0628\u0646\u0627\u0646\u064a"
+            },
+            {
+              "uid": "91_Restaurants_and_Bars_91_\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629",
+              "key": "\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629",
+              "name": "\u0644\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0627\u0644\u0631\u0633\u0645\u064a\u0629"
+            },
+            {
+              "uid": "92_Restaurants_and_Bars_92_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u062e\u0631\u0649",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u062e\u0631\u0649",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u062e\u0631\u0649"
+            },
+            {
+              "uid": "93_Restaurants_and_Bars_93_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+            },
+            {
+              "uid": "94_Restaurants_and_Bars_94_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0648\u0631\u0648\u0628\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0648\u0631\u0648\u0628\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0623\u0648\u0631\u0648\u0628\u064a\u0629"
+            },
+            {
+              "uid": "95_Restaurants_and_Bars_95_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u0627\u0631",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u0627\u0631",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u0627\u0631"
+            },
+            {
+              "uid": "96_Restaurants_and_Bars_96_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0627\u062a"
+            },
+            {
+              "uid": "97_Restaurants_and_Bars_97_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0646\u0629"
+            },
+            {
+              "uid": "98_Restaurants_and_Bars_98_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u062d\u0631\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u062d\u0631\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u062d\u0631\u064a\u0629"
+            },
+            {
+              "uid": "99_Restaurants_and_Bars_99_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u0631\u0627\u0632\u064a\u0644\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u0631\u0627\u0632\u064a\u0644\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0628\u0631\u0627\u0632\u064a\u0644\u064a\u0629"
+            },
+            {
+              "uid": "100_Restaurants_and_Bars_100_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u062a\u0631\u0643\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u062a\u0631\u0643\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u062a\u0631\u0643\u064a\u0629"
+            },
+            {
+              "uid": "101_Restaurants_and_Bars_101_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0633\u0631\u064a\u0639\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0633\u0631\u064a\u0639\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0633\u0631\u064a\u0639\u0629"
+            },
+            {
+              "uid": "102_Restaurants_and_Bars_102_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0634\u0631\u0642 \u0623\u0648\u0633\u0637\u064a\u0629"
+            },
+            {
+              "uid": "103_Restaurants_and_Bars_103_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u062d\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u062d\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0635\u062d\u064a\u0629"
+            },
+            {
+              "uid": "104_Restaurants_and_Bars_104_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629"
+            },
+            {
+              "uid": "105_Restaurants_and_Bars_105_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629"
+            },
+            {
+              "uid": "106_Restaurants_and_Bars_106_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0641\u0631\u0646\u0633\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0641\u0631\u0646\u0633\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0641\u0631\u0646\u0633\u064a\u0629"
+            },
+            {
+              "uid": "107_Restaurants_and_Bars_107_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0645\u0635\u0631\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0645\u0635\u0631\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0645\u0635\u0631\u064a\u0629"
+            },
+            {
+              "uid": "108_Restaurants_and_Bars_108_\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u064a\u0627\u0628\u0627\u0646\u064a\u0629",
+              "key": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u064a\u0627\u0628\u0627\u0646\u064a\u0629",
+              "name": "\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u064a\u0627\u0628\u0627\u0646\u064a\u0629"
+            },
+            {
+              "uid": "109_Restaurants_and_Bars_109_\u0645\u062a\u0648\u0633\u0637\u064a",
+              "key": "\u0645\u062a\u0648\u0633\u0637\u064a",
+              "name": "\u0645\u062a\u0648\u0633\u0637\u064a"
+            },
+            {
+              "uid": "110_Restaurants_and_Bars_110_\u0645\u062e\u0628\u0648\u0632\u0627\u062a",
+              "key": "\u0645\u062e\u0628\u0648\u0632\u0627\u062a",
+              "name": "\u0645\u062e\u0628\u0648\u0632\u0627\u062a"
+            },
+            {
+              "uid": "111_Restaurants_and_Bars_111_\u0645\u0634\u0631\u0648\u0628",
+              "key": "\u0645\u0634\u0631\u0648\u0628",
+              "name": "\u0645\u0634\u0631\u0648\u0628"
+            },
+            {
+              "uid": "112_Restaurants_and_Bars_112_\u0645\u0634\u0631\u0648\u0628\u0627\u062a",
+              "key": "\u0645\u0634\u0631\u0648\u0628\u0627\u062a",
+              "name": "\u0645\u0634\u0631\u0648\u0628\u0627\u062a"
+            },
+            {
+              "uid": "113_Restaurants_and_Bars_113_\u0645\u0635\u0631\u064a",
+              "key": "\u0645\u0635\u0631\u064a",
+              "name": "\u0645\u0635\u0631\u064a"
+            },
+            {
+              "uid": "114_Restaurants_and_Bars_114_\u0645\u0637\u0627\u0639\u0645 \u0627\u0644\u0648\u062c\u0628\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629 \u0648\u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "key": "\u0645\u0637\u0627\u0639\u0645 \u0627\u0644\u0648\u062c\u0628\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629 \u0648\u0627\u0644\u062d\u0627\u0646\u0627\u062a",
+              "name": "\u0645\u0637\u0627\u0639\u0645 \u0627\u0644\u0648\u062c\u0628\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629 \u0648\u0627\u0644\u062d\u0627\u0646\u0627\u062a"
+            },
+            {
+              "uid": "115_Restaurants_and_Bars_115_\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629",
+              "key": "\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629",
+              "name": "\u0645\u0637\u0627\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a\u0629"
+            },
+            {
+              "uid": "116_Restaurants_and_Bars_116_\u0645\u0637\u0639\u0645 \u0628\u0631\u062c\u0631",
+              "key": "\u0645\u0637\u0639\u0645 \u0628\u0631\u062c\u0631",
+              "name": "\u0645\u0637\u0639\u0645 \u0628\u0631\u062c\u0631"
+            },
+            {
+              "uid": "117_Restaurants_and_Bars_117_\u0645\u0637\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a",
+              "key": "\u0645\u0637\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a",
+              "name": "\u0645\u0637\u0639\u0645 \u063a\u064a\u0631 \u0631\u0633\u0645\u064a"
+            },
+            {
+              "uid": "118_Restaurants_and_Bars_118_\u0645\u063a\u0631\u0628\u064a",
+              "key": "\u0645\u063a\u0631\u0628\u064a",
+              "name": "\u0645\u063a\u0631\u0628\u064a"
+            },
+            {
+              "uid": "119_Restaurants_and_Bars_119_\u0645\u0642\u0627\u0647\u064a",
+              "key": "\u0645\u0642\u0627\u0647\u064a",
+              "name": "\u0645\u0642\u0627\u0647\u064a"
+            },
+            {
+              "uid": "120_Restaurants_and_Bars_120_\u0645\u0642\u0647\u0649",
+              "key": "\u0645\u0642\u0647\u0649",
+              "name": "\u0645\u0642\u0647\u0649"
+            },
+            {
+              "uid": "121_Restaurants_and_Bars_121_\u0645\u0643\u0633\u064a\u0643\u064a",
+              "key": "\u0645\u0643\u0633\u064a\u0643\u064a",
+              "name": "\u0645\u0643\u0633\u064a\u0643\u064a"
+            },
+            {
+              "uid": "122_Restaurants_and_Bars_122_\u0647\u0646\u062f\u064a",
+              "key": "\u0647\u0646\u062f\u064a",
+              "name": "\u0647\u0646\u062f\u064a"
+            },
+            {
+              "uid": "123_Restaurants_and_Bars_123_\u0648\u062c\u0628\u0627\u062a \u0633\u0631\u064a\u0639\u0629",
+              "key": "\u0648\u062c\u0628\u0627\u062a \u0633\u0631\u064a\u0639\u0629",
+              "name": "\u0648\u062c\u0628\u0627\u062a \u0633\u0631\u064a\u0639\u0629"
+            },
+            {
+              "uid": "124_Restaurants_and_Bars_124_\u064a\u0627\u0628\u0627\u0646\u064a",
+              "key": "\u064a\u0627\u0628\u0627\u0646\u064a",
+              "name": "\u064a\u0627\u0628\u0627\u0646\u064a"
+            },
+            {
+              "uid": "125_Restaurants_and_Bars_125_\u064a\u0648\u0646\u0627\u0646\u064a",
+              "key": "\u064a\u0648\u0646\u0627\u0646\u064a",
+              "name": "\u064a\u0648\u0646\u0627\u0646\u064a"
+            },
+            {
+              "uid": "126_Restaurants_and_Bars_126_\u4e2d\u5f0f",
+              "key": "\u4e2d\u5f0f",
+              "name": "\u4e2d\u5f0f"
+            },
+            {
+              "uid": "127_Restaurants_and_Bars_127_\u4e9a\u6d32",
+              "key": "\u4e9a\u6d32",
+              "name": "\u4e9a\u6d32"
+            },
+            {
+              "uid": "128_Restaurants_and_Bars_128_\u65e5\u5f0f",
+              "key": "\u65e5\u5f0f",
+              "name": "\u65e5\u5f0f"
+            }
+          ]
+        },
+        {
+          "section_order_id": 4,
+          "category_id": 4,
+          "section_name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "1_Restaurants_and_Bars_39_buffet",
+              "key": "buffet",
+              "name": "\u0628\u0648\u0641\u064a\u0647",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/buffet.png"
+            },
+            {
+              "uid": "2_Restaurants_and_Bars_54_halal",
+              "key": "halal",
+              "name": "\u062d\u0644\u0627\u0644 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/halal.png"
+            },
+            {
+              "uid": "3_Restaurants_and_Bars_57_kids_welcome",
+              "key": "kids_welcome",
+              "name": "\u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0623\u0648\u0644\u0627\u062f",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/kids_welcome.png"
+            },
+            {
+              "uid": "4_Restaurants_and_Bars_60_live_entertainment",
+              "key": "live_entertainment",
+              "name": "\u062a\u0631\u0641\u064a\u0647 \u0645\u0628\u0627\u0634\u0631",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/live_entertainment.png"
+            },
+            {
+              "uid": "5_Restaurants_and_Bars_63_outdoor_cooling",
+              "key": "outdoor_cooling",
+              "name": "\u062a\u0628\u0631\u064a\u062f \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_cooling.png"
+            },
+            {
+              "uid": "6_Restaurants_and_Bars_66_outdoor_heating",
+              "key": "outdoor_heating",
+              "name": "\u062a\u062f\u0641\u0626\u0629 \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_heating.png"
+            },
+            {
+              "uid": "7_Restaurants_and_Bars_69_outdoor_seating",
+              "key": "outdoor_seating",
+              "name": "\u0645\u0642\u0627\u0639\u062f \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/outdoor_seating.png"
+            },
+            {
+              "uid": "8_Restaurants_and_Bars_72_parking",
+              "key": "parking",
+              "name": "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/parking.png"
+            },
+            {
+              "uid": "9_Restaurants_and_Bars_75_pets_allowed",
+              "key": "pets_allowed",
+              "name": "\u0627\u0644\u062d\u064a\u0648\u0627\u062a \u0627\u0644\u0623\u0644\u064a\u0641\u0629 \u0645\u0633\u0645\u0648\u062d\u0629\r\n",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/pets_allowed.png"
+            },
+            {
+              "uid": "11_Restaurants_and_Bars_81_smoking_indoor",
+              "key": "smoking_indoor",
+              "name": "\u0627\u0644\u062a\u062f\u062e\u064a\u0646 \u0641\u064a \u0627\u0644\u062f\u0627\u062e\u0644 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/smoking_indoor.png"
+            },
+            {
+              "uid": "12_Restaurants_and_Bars_87_smoking_shisha",
+              "key": "smoking_shisha",
+              "name": "\u062a\u062f\u062e\u064a\u0646 \u0627\u0644\u0634\u064a\u0634\u0629 \u0645\u0633\u0645\u0648\u062d",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/smoking_shisha.png"
+            },
+            {
+              "uid": "13_Restaurants_and_Bars_90_sports_screens",
+              "key": "sports_screens",
+              "name": "\u0634\u0627\u0634\u0627\u062a \u0644\u0646\u0642\u0644 \u0627\u0644\u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/sports_screens.png"
+            },
+            {
+              "uid": "14_Restaurants_and_Bars_93_supervised_play_area",
+              "key": "supervised_play_area",
+              "name": "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u062e\u0627\u0636\u0639\u0629 \u0644\u0644\u0625\u0634\u0631\u0627\u0641",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/supervised_play_area.png"
+            },
+            {
+              "uid": "15_Restaurants_and_Bars_96_takeaway",
+              "key": "takeaway",
+              "name": "\u0637\u0644\u0628\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/takeaway.png"
+            },
+            {
+              "uid": "16_Restaurants_and_Bars_99_valet_parking",
+              "key": "valet_parking",
+              "name": "\u062e\u062f\u0645\u0629 \u0631\u0635\u0641 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/valet_parking.png"
+            },
+            {
+              "uid": "17_Restaurants_and_Bars_102_wheelchair_accessible",
+              "key": "wheelchair_accessible",
+              "name": "\u0635\u0627\u0644\u062d \u0644\u0644\u0645\u0639\u0627\u0642\u064a\u0646",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/wheelchair_accessible.png"
+            },
+            {
+              "uid": "19_Restaurants_and_Bars_376_rooftop_bars",
+              "key": "rooftop_bars",
+              "name": "\u0627\u0644\u062d\u0627\u0646\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0633\u0637\u062d",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/rooftop_bars.png"
+            },
+            {
+              "uid": "20_Restaurants_and_Bars_105_wi_fi",
+              "key": "wi_fi",
+              "name": "\u0627\u062a\u0635\u0627\u0644 \u0644\u0627\u0633\u0644\u0643\u064a \u0628\u0634\u0628\u0643\u0629 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u064a \u0641\u0627\u064a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/wi_fi.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Services",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 5,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Services_5_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 5,
+          "section_name": "\u0627\u0644\u0646\u0648\u0639",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Services_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Services_154",
+              "key": "Auto",
+              "name": "\u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a"
+            },
+            {
+              "uid": "2_Services_130",
+              "key": "Baby",
+              "name": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0623\u0637\u0641\u0627\u0644"
+            },
+            {
+              "uid": "3_Services_133",
+              "key": "Cleaning",
+              "name": "\u0627\u0644\u062a\u0646\u0638\u064a\u0641"
+            },
+            {
+              "uid": "4_Services_200",
+              "key": "Courses",
+              "name": "\u0627\u0644\u0643\u0648\u0631\u0633\u0627\u062a"
+            },
+            {
+              "uid": "5_Services_136",
+              "key": "Events",
+              "name": "\u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0627\u062a"
+            },
+            {
+              "uid": "6_Services_139",
+              "key": "Maintenance",
+              "name": "\u0627\u0644\u0635\u064a\u0627\u0646\u0629"
+            },
+            {
+              "uid": "7_Services_142",
+              "key": "Office",
+              "name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0643\u062a\u0628\u064a\u0629"
+            },
+            {
+              "uid": "8_Services_191",
+              "key": "Other",
+              "name": "\u062e\u062f\u0645\u0627\u062a \u0623\u062e\u0631\u0649"
+            },
+            {
+              "uid": "9_Services_145",
+              "key": "Pets",
+              "name": "\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0644\u064a\u0641\u0629"
+            },
+            {
+              "uid": "10_Services_148",
+              "key": "Photography",
+              "name": "\u0627\u0644\u062a\u0635\u0648\u064a\u0631"
+            },
+            {
+              "uid": "11_Services_151",
+              "key": "Tailoring",
+              "name": "\u0627\u0644\u062e\u064a\u0627\u0637\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 3,
+          "category_id": 5,
+          "section_name": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Services_183_by_appointment_only",
+              "key": "by_appointment_only",
+              "name": "\u0628\u0645\u0648\u0639\u062f \u0645\u0633\u0628\u0642 \u0641\u0642\u0637",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/by_appointment_only.png"
+            },
+            {
+              "uid": "1_Services_189_pick_up_drop_off",
+              "key": "pick_up_drop_off",
+              "name": "\u0646\u0642\u0644 \u0648\u062a\u0648\u0635\u064a\u0644",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/pick_up_drop_off.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 6,
+      "category_name": "Travel",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 6,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_6_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 6,
+          "section_name": "\u0639\u062f\u062f \u0627\u0644\u0646\u062c\u0648\u0645",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Travel_127",
+              "key": "3 Star",
+              "name": "\u0646\u062c\u0648\u0645 \u0663"
+            },
+            {
+              "uid": "2_Travel_102",
+              "key": "4 Star",
+              "name": "\u0664 \u0646\u062c\u0648\u0645"
+            },
+            {
+              "uid": "3_Travel_105",
+              "key": "5 Star",
+              "name": "\u0665 \u0646\u062c\u0648\u0645"
+            },
+            {
+              "uid": "4_Travel_111",
+              "key": "B&B \/ Lodge",
+              "name": "\u0645\u0628\u064a\u062a \u0648\u0641\u0637\u0648\u0631"
+            },
+            {
+              "uid": "5_Travel_117",
+              "key": "Hotel Apartments",
+              "name": "\u0634\u0642\u0642 \u0641\u0646\u062f\u0642\u064a\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 3,
+          "category_id": 6,
+          "section_name": "\u0646\u0648\u0639 \u0627\u0644\u0641\u0646\u062f\u0642",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_225_bed_breakfast",
+              "key": "bed_breakfast",
+              "name": "\u0625\u0642\u0627\u0645\u0629 \u0648\u0641\u0637\u0648\u0631",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/bed_breakfast.png"
+            },
+            {
+              "uid": "1_Travel_228_boutique",
+              "key": "boutique",
+              "name": "\u0628\u0648\u062a\u064a\u0643",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/boutique.png"
+            },
+            {
+              "uid": "2_Travel_234_city",
+              "key": "city",
+              "name": "\u0641\u0646\u062f\u0642 \u0641\u064a \u0642\u0644\u0628 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/city.png"
+            },
+            {
+              "uid": "3_Travel_246_couples_only",
+              "key": "couples_only",
+              "name": "\u0644\u0644\u0623\u0632\u0648\u0627\u062c \u0641\u0642\u0637 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/couples_only.png"
+            },
+            {
+              "uid": "4_Travel_252_family",
+              "key": "family",
+              "name": "\u0644\u0644\u0639\u0627\u0626\u0644\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/family.png"
+            },
+            {
+              "uid": "5_Travel_267_health_spa_resort",
+              "key": "health_spa_resort",
+              "name": "\u0645\u0646\u062a\u062c\u0639 \u0635\u062d\u064a ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/health_spa_resort.png"
+            },
+            {
+              "uid": "6_Travel_273_hotel_apartment",
+              "key": "hotel_apartment",
+              "name": "\u0634\u0642\u0642 \u0641\u0646\u062f\u0642\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/hotel_apartment.png"
+            },
+            {
+              "uid": "7_Travel_291_lodge_safari",
+              "key": "lodge_safari",
+              "name": "\u0643\u0648\u062e - \u0633\u0641\u0627\u0631\u064a ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/lodge_safari.png"
+            },
+            {
+              "uid": "8_Travel_294_lodge_ski",
+              "key": "lodge_ski",
+              "name": "\u0643\u0648\u062e - \u062b\u0644\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/lodge_ski.png"
+            },
+            {
+              "uid": "9_Travel_327_resort",
+              "key": "resort",
+              "name": "\u0645\u0646\u062a\u062c\u0639",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/resort.png"
+            }
+          ]
+        },
+        {
+          "section_order_id": 4,
+          "category_id": 6,
+          "section_name": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \/\u0627\u0644\u0645\u0648\u0642\u0639",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_216_beach",
+              "key": "beach",
+              "name": "\u0634\u0627\u0637\u0626",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/beach.png"
+            },
+            {
+              "uid": "1_Travel_300_mountain_country",
+              "key": "mountain_country",
+              "name": "\u062c\u0628\u0644 \/ \u0631\u064a\u0641 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/mountain_country.png"
+            },
+            {
+              "uid": "2_Travel_333_seaside",
+              "key": "seaside",
+              "name": "\u0648\u0627\u062c\u0647\u0629 \u0628\u062d\u0631\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/seaside.png"
+            },
+            {
+              "uid": "3_Travel_336_shopping_mall",
+              "key": "shopping_mall",
+              "name": "\u0645\u0631\u0643\u0632 \u062a\u0633\u0648\u0651\u0642",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/shopping_mall.png"
+            }
+          ]
+        },
+        {
+          "section_order_id": 5,
+          "category_id": 6,
+          "section_name": "\u0645\u0631\u0627\u0641\u0642 \u0627\u0644\u0641\u0646\u062f\u0642",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_201_x24_hour_reception",
+              "key": "x24_hour_reception",
+              "name": "\u0645\u0643\u062a\u0628 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0662\u0664 \u0633\u0627\u0639\u0629 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/x24_hour_reception.png"
+            },
+            {
+              "uid": "2_Travel_219_beach_club",
+              "key": "beach_club",
+              "name": "\u0646\u0627\u062f\u064a \u0639\u0646\u062f \u0627\u0644\u0634\u0627\u0637\u0626",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/beach_club.png"
+            },
+            {
+              "uid": "3_Travel_222_beauty_centre",
+              "key": "beauty_centre",
+              "name": "\u0645\u0631\u0643\u0632 \u062a\u062c\u0645\u064a\u0644",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/beauty_centre.png"
+            },
+            {
+              "uid": "4_Travel_231_car_park",
+              "key": "car_park",
+              "name": "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/car_park.png"
+            },
+            {
+              "uid": "5_Travel_240_club_lounge",
+              "key": "club_lounge",
+              "name": "\u0644\u0627\u0648\u0646\u062c",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/club_lounge.png"
+            },
+            {
+              "uid": "6_Travel_243_concierge",
+              "key": "concierge",
+              "name": "\u062e\u062f\u0645\u0629 \u0645\u0633\u0627\u0639\u062f\u0629 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/concierge.png"
+            },
+            {
+              "uid": "7_Travel_249_day_spa",
+              "key": "day_spa",
+              "name": "\u0633\u0628\u0627 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/day_spa.png"
+            },
+            {
+              "uid": "8_Travel_255_golf",
+              "key": "golf",
+              "name": "\u062c\u0648\u0644\u0641",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/golf.png"
+            },
+            {
+              "uid": "9_Travel_258_gym_fitness",
+              "key": "gym_fitness",
+              "name": "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/gym_fitness.png"
+            },
+            {
+              "uid": "10_Travel_261_hair_salon",
+              "key": "hair_salon",
+              "name": "\u0635\u0627\u0644\u0648\u0646 \u0644\u0644\u0634\u0639\u0631",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/hair_salon.png"
+            },
+            {
+              "uid": "11_Travel_264_health_programmes",
+              "key": "health_programmes",
+              "name": "\u0628\u0631\u0627\u0645\u062c \u0635\u062d\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/health_programmes.png"
+            },
+            {
+              "uid": "12_Travel_282_kids_club",
+              "key": "kids_club",
+              "name": "\u0646\u0627\u062f\u064a \u0644\u0644\u0623\u0648\u0644\u0627\u062f",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/kids_club.png"
+            },
+            {
+              "uid": "13_Travel_303_night_club",
+              "key": "night_club",
+              "name": "\u0646\u0627\u062f\u064a \u0644\u064a\u0644\u064a ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/night_club.png"
+            },
+            {
+              "uid": "14_Travel_318_prayer_room",
+              "key": "prayer_room",
+              "name": "\u0645\u0635\u0644\u0649",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/prayer_room.png"
+            },
+            {
+              "uid": "15_Travel_345_sports_club",
+              "key": "sports_club",
+              "name": "\u0646\u0627\u062f\u064a \u0631\u064a\u0627\u0636\u064a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/sports_club.png"
+            },
+            {
+              "uid": "16_Travel_348_swimming_pool",
+              "key": "swimming_pool",
+              "name": "\u062d\u0648\u0636 \u0633\u0628\u0627\u062d\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/swimming_pool.png"
+            },
+            {
+              "uid": "17_Travel_357_valet_parking",
+              "key": "valet_parking",
+              "name": "\u062e\u062f\u0645\u0629 \u0631\u0635\u0641 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/valet_parking.png"
+            },
+            {
+              "uid": "18_Travel_363_water_sports",
+              "key": "water_sports",
+              "name": "\u0631\u064a\u0627\u0636\u0627\u062a \u0645\u0627\u0626\u064a\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/water_sports.png"
+            },
+            {
+              "uid": "19_Travel_366_wheelchair_accessible",
+              "key": "wheelchair_accessible",
+              "name": "\u0635\u0627\u0644\u062d \u0644\u0644\u0645\u0639\u0627\u0642\u064a\u0646",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/wheelchair_accessible.png"
+            },
+            {
+              "uid": "20_Travel_369_wi_fi",
+              "key": "wi_fi",
+              "name": "\u0627\u062a\u0635\u0627\u0644 \u0644\u0627\u0633\u0644\u0643\u064a \u0628\u0634\u0628\u0643\u0629 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u064a \u0641\u0627\u064a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/wi_fi.png"
+            }
+          ]
+        },
+        {
+          "section_order_id": 6,
+          "category_id": 6,
+          "section_name": "\u063a\u0631\u0641 \u0627\u0644\u0641\u0646\u062f\u0642",
+          "selection_type": 3,
+          "has_icons": true,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Travel_204_x24_hour_room_service",
+              "key": "x24_hour_room_service",
+              "name": "\u062e\u062f\u0645\u0629 \u063a\u0631\u0641 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0662\u0664 \u0633\u0627\u0639\u0629 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/x24_hour_room_service.png"
+            },
+            {
+              "uid": "1_Travel_207_air_conditioning",
+              "key": "air_conditioning",
+              "name": "\u062a\u0643\u064a\u064a\u0641 \u0647\u0648\u0627\u0626\u064a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/air_conditioning.png"
+            },
+            {
+              "uid": "2_Travel_213_balcony",
+              "key": "balcony",
+              "name": "\u0634\u0631\u0641\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/balcony.png"
+            },
+            {
+              "uid": "3_Travel_270_heating",
+              "key": "heating",
+              "name": "\u062a\u062f\u0641\u0626\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/heating.png"
+            },
+            {
+              "uid": "4_Travel_276_inhouse_movies",
+              "key": "inhouse_movies",
+              "name": "\u0623\u0641\u0644\u0627\u0645 \u0641\u064a \u0627\u0644\u062f\u0627\u062e\u0644 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/inhouse_movies.png"
+            },
+            {
+              "uid": "5_Travel_279_in_room_spa_bath",
+              "key": "in_room_spa_bath",
+              "name": "\u062d\u0648\u0636 \u0627\u0633\u062a\u062d\u0645\u0627\u0645 \u0641\u064a \u0627\u0644\u063a\u0631\u0641\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/in_room_spa_bath.png"
+            },
+            {
+              "uid": "6_Travel_285_kitchen_facilities",
+              "key": "kitchen_facilities",
+              "name": "\u0645\u0631\u0627\u0641\u0642 \u0627\u0644\u0645\u0637\u0628\u062e",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/kitchen_facilities.png"
+            },
+            {
+              "uid": "7_Travel_288_laundry_service",
+              "key": "laundry_service",
+              "name": "\u062e\u062f\u0645\u0629 \u063a\u0633\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633 ",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/laundry_service.png"
+            },
+            {
+              "uid": "8_Travel_297_mini_bar",
+              "key": "mini_bar",
+              "name": "\u0628\u0631\u0627\u062f \u0635\u063a\u064a\u0631 \u0641\u064a \u0627\u0644\u063a\u0631\u0641\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/mini_bar.png"
+            },
+            {
+              "uid": "9_Travel_315_plunge_pool",
+              "key": "plunge_pool",
+              "name": "\u062d\u0648\u0636 \u063a\u0637\u0633",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/plunge_pool.png"
+            },
+            {
+              "uid": "10_Travel_330_safe_deposit_box",
+              "key": "safe_deposit_box",
+              "name": "\u062e\u0632\u0646\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/safe_deposit_box.png"
+            },
+            {
+              "uid": "11_Travel_339_smoking_rooms",
+              "key": "smoking_rooms",
+              "name": "\u063a\u0631\u0641 \u064a\u064f\u0633\u0645\u062d \u0627\u0644\u062a\u062f\u062e\u064a\u0646 \u0641\u064a\u0647\u0627",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/smoking_rooms.png"
+            },
+            {
+              "uid": "12_Travel_342_sound_system",
+              "key": "sound_system",
+              "name": "\u0646\u0638\u0627\u0645 \u0635\u0648\u062a\u064a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/sound_system.png"
+            },
+            {
+              "uid": "13_Travel_354_tv_in_room",
+              "key": "tv_in_room",
+              "name": "\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0641\u064a \u0627\u0644\u063a\u0631\u0641\u0629",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/tv_in_room.png"
+            },
+            {
+              "uid": "14_Travel_360_villas",
+              "key": "villas",
+              "name": "\u0641\u064a\u0644\u0627\u062a",
+              "image_url": "https:\/\/s3-us-west-2.amazonaws.com\/merchhant-attribute-icons\/villas.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 7,
+      "category_name": "Retail",
+      "filter_sections": [
+        {
+          "section_order_id": 1,
+          "category_id": 7,
+          "section_name": "\u0639\u0631\u0648\u0636",
+          "selection_type": 4,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Retail_7_new_offers",
+              "key": "new",
+              "name": "\u0639\u0631\u0648\u0636 \u062c\u062f\u064a\u062f\u0629"
+            }
+          ]
+        },
+        {
+          "section_order_id": 2,
+          "category_id": 7,
+          "section_name": "\u0627\u0644\u0646\u0648\u0639",
+          "selection_type": 1,
+          "has_icons": false,
+          "collapsible": false,
+          "options": [
+            {
+              "uid": "0_Retail_All",
+              "key": "All",
+              "name": "\u0643\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0648\u0636"
+            },
+            {
+              "uid": "1_Retail_197",
+              "key": "Baby & Child",
+              "name": "\u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0648\u0627\u0644\u0635\u063a\u0627\u0631"
+            },
+            {
+              "uid": "2_Retail_160",
+              "key": "Confectionary",
+              "name": "\u0627\u0644\u062d\u0644\u0648\u064a\u0627\u062a"
+            },
+            {
+              "uid": "3_Retail_163",
+              "key": "Electronics",
+              "name": "\u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a"
+            },
+            {
+              "uid": "4_Retail_166",
+              "key": "Fashion",
+              "name": "\u0627\u0644\u0645\u0648\u0636\u0629 \u0648\u0627\u0644\u0623\u0632\u064a\u0627\u0621"
+            },
+            {
+              "uid": "5_Retail_172",
+              "key": "Grocery & Off-Licence",
+              "name": "\u0627\u0644\u0628\u0642\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a"
+            },
+            {
+              "uid": "6_Retail_157",
+              "key": "Health & Beauty",
+              "name": "\u0627\u0644\u0635\u062d\u0629 \u0648\u0627\u0644\u062c\u0645\u0627\u0644"
+            },
+            {
+              "uid": "7_Retail_169",
+              "key": "Home & Garden",
+              "name": "\u0627\u0644\u0645\u0646\u0632\u0644 \u0648\u0627\u0644\u062d\u062f\u064a\u0642\u0629"
+            },
+            {
+              "uid": "8_Retail_175",
+              "key": "Jewellery",
+              "name": "\u0627\u0644\u0645\u062c\u0648\u0647\u0631\u0627\u062a"
+            },
+            {
+              "uid": "9_Retail_178",
+              "key": "Opticians",
+              "name": "\u0627\u0644\u0628\u0635\u0631\u064a\u0627\u062a"
+            },
+            {
+              "uid": "10_Retail_194",
+              "key": "Pets",
+              "name": "\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0644\u064a\u0641\u0629"
+            },
+            {
+              "uid": "11_Retail_181",
+              "key": "Sporting Goods",
+              "name": "\u0627\u0644\u0628\u0636\u0627\u0626\u0639 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

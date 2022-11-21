@@ -1,0 +1,20 @@
+{
+  "consume": [],
+  "expose": {},
+  "mainRoute": "",
+  "currentModuleForMainRoute": "Auth",
+  "currentScreenForMainRoute": "Auth",
+  "moduleRoutes": {
+    "Auth": "Auth",
+    "Favorite": "Favourite",
+    "Delivery": "Delivery",
+    "Home": "Home",
+    "Merchant": "Merchant",
+    "Notification": "Notification",
+    "Outlet": "Outlet",
+    "Search": "Search",
+    "User Profile": "User Profile",
+    "Travel": "Travel",
+    "AttractionWorldWide": "Attraction Worldwide"
+  }
+}

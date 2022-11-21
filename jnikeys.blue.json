@@ -1,0 +1,19 @@
+{
+  "secure": {
+    "apiToken": "YuAG3KuxjPQDmCzUU7KL4LNmr4kjpN",
+    "serectKey": "pw6YmLd6TARPJdHhHBZm49auRTan6V",
+    "APP_BOY_API_KEY_IOS": "09768a5e-9b4f-4d22-998d-56ade1551e78",
+    "APP_BOY_API_KEY_ANDROID": "6fa7930c-9295-4999-a09f-ae505642c09a",
+    "APP_BOY_API_KEY_WEB": "ed9cc9d9-04a3-4a29-a309-0aa5c581a8cf",
+    "GETAWAYS_KEY": "zje5602rtfd35d76s-b-qw61476gds52394hs6.488",
+    "MAIN_IV": "18b8c9ef473e2126",
+    "MAIN_SAULT": "18b8c9ef473e2126c3c56ab0cb2b71cb",
+    "RECAPTCHA": "6LfTLFggAAAAAKv8vdb08FosMhBW4dZMaKzyZ4GH",
+    "CASHLESS_USERNAME": "qlzfqghpkeiwhmzg",
+    "CASHLESS_PASSWORD": "k$V}B*(6DK5ymTNbH?4<rj3uGF;[~t>q",
+    "GOOGLE_MAP_API_KEY": "AIzaSyBQSrRUV9PA9fcmDvUgp3PssRarVl5ipwA",
+    "AuthToken": "d44335434557f59bf52e55bfa4b77708",
+    "BASIC_AUTH_API_USER":"VqMU4vjHd7j4NT8f",
+    "BASIC_API_PASSWORD":"s$fKq(L&Sg?;rk*H2^wC@Y!9b[Nh%P74"
+  }
+}

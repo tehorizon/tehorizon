@@ -1,0 +1,150 @@
+{
+    "Auth": {
+        "description": "Login SignUp Module",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Login / Sign-Up",
+                "screenshot": "9a510c8f-df48-4f2c-866a-b22501926b28.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Favorite": {
+        "description": "Favorite",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Favorite",
+                "screenshot": "c7b1ee54-28c0-4660-9605-35d47d58e7ca.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Home": {
+        "description": "Home",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Home",
+                "screenshot": "ef47e0d1-67a3-41bf-99f3-31e95cf65065.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Merchant": {
+        "description": "Merchant",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Merchant",
+                "screenshot": "0a6049a1-83cb-4f64-9ea5-860ec4aed074.png"
+            },
+            {
+                "title": "Hero URL Screen",
+                "screenshot": "63ab99f0-d767-4958-a048-1c51759a104c.png"
+            },
+            {
+                "title": "MAP Screen",
+                "screenshot": "7e7732ed-d424-455f-84b4-01d09667e0c0.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Notification": {
+        "description": "Notification",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Notification Screen",
+                "screenshot": "5b739be4-478a-483c-9371-96e3763b4bac.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Outlet": {
+        "description": "Outlet",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Outlet Screen",
+                "screenshot": "313cab94-02aa-46ce-b536-cb4198038d0c.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Search": {
+        "description": "Search",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Search Screen",
+                "screenshot": "81d6d1ff-8441-4bea-b2f7-a05103ced816.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "User Profile": {
+        "description": "User Profile",
+        "isRequired": true,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [
+            {
+                "title": "Redemption Screen",
+                "screenshot": "8a1e04f1-06f6-48d0-ae92-f1fe1c973123.png"
+            },
+            {
+                "title": "Saving Breakdown Screen",
+                "screenshot": "73cb1ff8-cb8e-4895-955f-b31fd5d6d4af.png"
+            },
+            {
+                "title": "User Screen",
+                "screenshot": "57e47ea0-ba60-4f24-a9b8-17e23c4393cf.png"
+            },
+            {
+                "title": "User Profile",
+                "screenshot": "037d7c48-d319-4983-97dc-1551f426a432.png"
+            }
+        ],
+        "gif": "gifPath"
+    },
+    "Delivery": {
+        "description": "Delivery Module",
+        "isRequired": false,
+        "isActive": false,
+        "prerequisites": [],
+        "images": [],
+        "gif": "gifPath"
+    },
+    "Travel": {
+        "description": "Travel Module",
+        "isRequired": false,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [],
+        "gif": "gifPath"
+    },
+    "AttractionWorldWide": {
+        "description": "Attraction Worldwide Module",
+        "isRequired": false,
+        "isActive": true,
+        "prerequisites": [],
+        "images": [],
+        "gif": "gifPath"
+    }
+}

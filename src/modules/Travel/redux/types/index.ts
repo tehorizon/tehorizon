@@ -1,0 +1,4 @@
+export const TravelActionTypes = {
+  GET_COUNTRIES_LIST: "GET_COUNTRIES_LIST",
+  SET_COUNTRIES_LIST: "SET_COUNTRIES_LIST",
+};

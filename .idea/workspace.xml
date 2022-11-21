@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66d95ce1-2aae-4943-bbbe-7529ecafadcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HybridComponents/Chart/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HybridComponents/Chart/index.web.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HybridComponents/PanoramaView/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HybridComponents/PanoramaView/index.web.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.web.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.web.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/Merchant/screens/url/index.ui.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Merchant/screens/url/index.ui.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/Profile/components/TopTabProfile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Profile/components/TopTabProfile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/delivery/screens/orderHistory/screen/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/delivery/screens/orderHistory/screen/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/delivery/screens/orderStatus/Components/OrderStatusCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/delivery/screens/orderStatus/Components/OrderStatusCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation.web.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation.web.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1chx321tiF75vn1rD6fXokDb6ON" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modules/ft_rn_auth_module/src/screens/ft_rn_login_signup/screen/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/Profile/images" />
+      <recent name="$PROJECT_DIR$/src/modules/Profile/screens/UserProfile" />
+      <recent name="$PROJECT_DIR$/src/modules/Profile/screens/UserPreferences" />
+      <recent name="$PROJECT_DIR$/src/modules/Profile/screens/SavingHistory" />
+      <recent name="$PROJECT_DIR$/src/modules/Profile/defaults" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/ft_rn_auth_module/src/screens/ft_rn_login_signup/screen/components" />
+      <recent name="$PROJECT_DIR$/src/modules/ft_rn_auth_module/src/screens/ft_rn_login_signup/screen" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/modules/ft_rn_user_profile_module/src/screens" />
+      <recent name="$PROJECT_DIR$/src/modules/delivery/screens/orderStatus/Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d95ce1-2aae-4943-bbbe-7529ecafadcc" name="Default Changelist" comment="" />
+      <created>1590994423593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590994423593</updated>
+      <workItem from="1590994426162" duration="691000" />
+      <workItem from="1590998172350" duration="403000" />
+      <workItem from="1591772327462" duration="200000" />
+      <workItem from="1592293503276" duration="1362000" />
+      <workItem from="1592298960034" duration="1869000" />
+      <workItem from="1592301777603" duration="19000" />
+      <workItem from="1592302431507" duration="499000" />
+      <workItem from="1592552711710" duration="1094000" />
+      <workItem from="1592914929741" duration="1221000" />
+      <workItem from="1593173348065" duration="615000" />
+      <workItem from="1593589381692" duration="304000" />
+      <workItem from="1595597467085" duration="7171000" />
+      <workItem from="1597319082243" duration="377000" />
+      <workItem from="1598257292522" duration="211000" />
+      <workItem from="1599046027297" duration="325000" />
+      <workItem from="1599554489959" duration="943000" />
+      <workItem from="1600070055197" duration="575000" />
+      <workItem from="1600419263263" duration="500000" />
+      <workItem from="1600673466532" duration="19000" />
+      <workItem from="1600866419098" duration="986000" />
+      <workItem from="1601459267252" duration="243000" />
+      <workItem from="1601468964842" duration="676000" />
+      <workItem from="1601993380308" duration="1622000" />
+      <workItem from="1602152944173" duration="486000" />
+      <workItem from="1603106962545" duration="6209000" />
+      <workItem from="1603190518758" duration="9834000" />
+      <workItem from="1603349882516" duration="826000" />
+      <workItem from="1603351937952" duration="1097000" />
+      <workItem from="1603447897977" duration="2284000" />
+      <workItem from="1603691804453" duration="322000" />
+      <workItem from="1603878875285" duration="721000" />
+      <workItem from="1603880038429" duration="1919000" />
+      <workItem from="1603882929948" duration="5862000" />
+      <workItem from="1603972715436" duration="2867000" />
+      <workItem from="1604392179697" duration="5120000" />
+      <workItem from="1604664450191" duration="3482000" />
+      <workItem from="1605160043996" duration="386000" />
+      <workItem from="1605165895842" duration="4843000" />
+      <workItem from="1605179893750" duration="3820000" />
+      <workItem from="1605254346533" duration="3515000" />
+      <workItem from="1605268393316" duration="216000" />
+      <workItem from="1605531526648" duration="343000" />
+      <workItem from="1605698086425" duration="916000" />
+      <workItem from="1606203925419" duration="1927000" />
+      <workItem from="1606723562426" duration="460000" />
+      <workItem from="1607080470561" duration="144000" />
+      <workItem from="1607583892796" duration="15846000" />
+      <workItem from="1610607881641" duration="546000" />
+      <workItem from="1613108289157" duration="362000" />
+      <workItem from="1613112298573" duration="6563000" />
+      <workItem from="1613371941549" duration="61000" />
+      <workItem from="1613372016915" duration="1948000" />
+      <workItem from="1613479222702" duration="31747000" />
+      <workItem from="1614078373381" duration="82000" />
+      <workItem from="1614078472795" duration="10774000" />
+      <workItem from="1615298916790" duration="3590000" />
+      <workItem from="1615720813519" duration="17800000" />
+      <workItem from="1616563625184" duration="2713000" />
+      <workItem from="1616672259701" duration="4324000" />
+      <workItem from="1616737018826" duration="2458000" />
+      <workItem from="1616741013235" duration="5826000" />
+      <workItem from="1618531484084" duration="456000" />
+      <workItem from="1619594766157" duration="2905000" />
+      <workItem from="1620210117061" duration="9925000" />
+      <workItem from="1635503846457" duration="6275000" />
+      <workItem from="1635834325870" duration="9862000" />
+      <workItem from="1636018813012" duration="4523000" />
+      <workItem from="1636359964882" duration="775000" />
+      <workItem from="1637660086918" duration="329000" />
+      <workItem from="1641898479140" duration="305000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' into delivery-module-structure&#10;&#10;# Conflicts:&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/components/categories/index.js&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/index.tsx">
+      <created>1617624334966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617624334967</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' into delivery-module-structure&#10;&#10;# Conflicts:&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/components/categories/index.js&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/index.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into delivery-module-structure&#10;&#10;# Conflicts:&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/components/categories/index.js&#10;#&#9;src/modules/ft_rn_home_module/src/screens/ft_rn_home_expo/screen/index.tsx" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634816581752">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1634816581752" />
+    <state x="526" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635491107808">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="526" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1635491107808" />
+    <state x="515" y="220" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642165854660">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="515" y="220" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1642165854660" />
+    <state x="0" y="25" width="1680" height="947" key="MergeDialog" timestamp="1643365585096">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="25" width="1680" height="947" key="MergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1643365585096" />
+    <state x="0" y="48" key="MergeDialog/0.25.1680.947@0.25.1680.947" timestamp="1643197213834" />
+    <state x="487" y="178" key="MultipleFileMergeDialog" timestamp="1643365585158">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="487" y="178" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1643365585158" />
+    <state x="610" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634889492209">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="610" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1634889492209" />
+    <state x="443" y="238" width="848" height="574" key="find.popup" timestamp="1643281481615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="443" y="238" width="848" height="574" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1643281481615" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modules/ft_rn_merchant_module/src/screens/ft_rn_merchant/screen/components/offers/index.tsx</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/startModule.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

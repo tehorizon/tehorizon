@@ -1,0 +1,84 @@
+{
+    "message": "success", 
+    "success": true, 
+    "data": {
+        "location_tags": [
+            {
+                "tag_id": 1, 
+                "tag_label": "Home", 
+                "tag_name": "Home", 
+                "allow_custom_name": false
+            }, 
+            {
+                "tag_id": 2, 
+                "tag_label": "Work", 
+                "tag_name": "Work", 
+                "allow_custom_name": false
+            }, 
+            {
+                "tag_id": 3, 
+                "tag_label": "Custom", 
+                "tag_name": "Other", 
+                "allow_custom_name": true
+            }
+        ], 
+        "delivery_locations": [
+            {
+                "delivery_location_id": 220475, 
+                "tag": 
+                {
+                    "tag_id": 2, 
+                    "tag_label": "Work", 
+                    "tag_name": "Work", 
+                    "allow_custom_name": false
+                }, 
+                "title": "Work", 
+                "home_office_address": "gghh", 
+                "street": "", 
+                "area_city": "Indian Ocean", 
+                "special_instructions": "ghbb", 
+                "latitude": -33.13755, 
+                "longitude": 81.826172, 
+                "auto_select_range": 1000
+            }, 
+            {
+                "delivery_location_id": 220476, 
+                "tag": 
+                {
+                    "tag_id": 3, 
+                    "tag_label": "ksa", 
+                    "tag_name": "ksa", 
+                    "allow_custom_name": true
+                }, 
+                "title": "ksa", 
+                "home_office_address": "saudia Arabia", 
+                "street": "", 
+                "area_city": "19525, Saudi Arabia", 
+                "special_instructions": "ksa", 
+                "latitude": 23.200802, 
+                "longitude": 45.168167, 
+                "auto_select_range": 1000
+            }, {
+                "delivery_location_id":220477, 
+                "tag": 
+                {
+                    "tag_id": 3, 
+                    "tag_label": "dubai", 
+                    "tag_name": "dubai", 
+                    "allow_custom_name": true
+                }, 
+                "title": "dubai", 
+                "home_office_address": "dubai", 
+                "street": "", 
+                "area_city": "Dubai -United Arab Emirates", 
+                "special_instructions": "dubai", 
+                "latitude": 25.204849, 
+                "longitude": 55.270782, 
+                "auto_select_range": 1000
+            }
+        ]
+    }, 
+    "code": 0, 
+    "cmd": "/et_rs_prd/wl/v67/user/delivery_locations?", 
+    "http_response": 200
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "order_statuses": [
+      {
+        "order_status": 0,
+        "order_status_text": "Order Received",
+        "order_status_text_color": "636363",
+        "order_status_image_url": "https://s3.amazonaws.com/entertainer-app-assets/ic_order_received.png",
+        "order_status_line_color": "82d500",
+        "is_selected": true,
+        "order_status_fab_image": "https://s3.amazonaws.com/entertainer-app-assets/delivery_icon_white.png"
+      },
+      {
+        "order_status": 1,
+        "order_status_text": "Order Confirmed",
+        "order_status_text_color": "636363",
+        "order_status_image_url": "https://s3.amazonaws.com/entertainer-app-assets/ic_order_confirm.png",
+        "order_status_line_color": "a5a5a5",
+        "is_selected": false,
+        "order_status_fab_image": "https://s3.amazonaws.com/entertainer-app-assets/delivery_icon_white.png"
+      },
+      {
+        "order_status": 2,
+        "order_status_text": "Under Preparation",
+        "order_status_text_color": "636363",
+        "order_status_image_url": "https://s3.amazonaws.com/entertainer-app-assets/ic_under_preparation.png",
+        "order_status_line_color": "a5a5a5",
+        "is_selected": false,
+        "order_status_fab_image": "https://s3.amazonaws.com/entertainer-app-assets/delivery_icon_white.png"
+      },
+      {
+        "order_status": 3,
+        "order_status_text": "En Route",
+        "order_status_text_color": "636363",
+        "order_status_image_url": "https://s3.amazonaws.com/entertainer-app-assets/ic_route.png",
+        "order_status_line_color": "a5a5a5",
+        "is_selected": false,
+        "order_status_fab_image": "https://s3.amazonaws.com/entertainer-app-assets/delivery_icon_white.png"
+      },
+      {
+        "order_status": 4,
+        "order_status_text": "Delivered",
+        "order_status_text_color": "636363",
+        "order_status_image_url": "https://s3.amazonaws.com/entertainer-app-assets/ic_delivery.png",
+        "order_status_line_color": "a5a5a5",
+        "is_selected": false,
+        "order_status_fab_image": "https://s3.amazonaws.com/entertainer-app-assets/delivery_icon_white.png"
+      }
+    ],
+    "order_section_title": "Order Status",
+    "estimated_delivery_time": "Estimated Delivery Time: 3:08pm",
+    "is_show_cancel_button": true,
+    "order_status": "pending",
+    "is_order_rejected": false,
+    "order_status_color": "636363"
+  },
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "cmd": "/et_rs_prd/wl/v67/cashless/order_current_status?",
+  "http_response": 200
+}

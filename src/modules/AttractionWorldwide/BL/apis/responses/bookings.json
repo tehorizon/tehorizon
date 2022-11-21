@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "id": 0,
+        "title": "Motiongate Dubai",
+        "details": "Motiongate Dubai is a Hollywood-inspired theme park located in Dubai Parks and Resorts, Dubai",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e4/90/1c.jpg",
+        "location": "Jebel Ali",
+        "address": "Park and Resorts - Sheikh Zayed Rd",
+        "ticket_details": "2x VIP ENTRY TICKETS",
+        "booking_date": "2022-10-24T12:31:28Z",
+        "package": {
+          "id": 0,
+          "title": "Motiongate 24h package"
+        }
+      },
+      {
+        "id": 0,
+        "title": "Motiongate Dubai",
+        "details": "Motiongate Dubai is a Hollywood-inspired theme park located in Dubai Parks and Resorts, Dubai",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e4/90/1c.jpg",
+        "location": "Jebel Ali",
+        "address": "Park and Resorts - Sheikh Zayed Rd",
+        "ticket_details": "2x VIP ENTRY TICKETS",
+        "booking_date": "2022-10-24T12:31:28Z",
+        "package": {
+          "id": 0,
+          "title": "Motiongate 24h package"
+        }
+      }
+    ]
+  }

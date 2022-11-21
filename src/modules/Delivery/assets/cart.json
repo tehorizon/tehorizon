@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "uniqueId": 1617963469648,
+      "productId": 101192,
+      "is_customisable": false,
+      "count": 1,
+      "voucherId": "",
+      "name": "Noodle Soup",
+      "itemSubtotalPrice": 12,
+      "price": 12
+    },
+    {
+      "uniqueId": 1617963471937,
+      "productId": 101192,
+      "is_customisable": false,
+      "count": 1,
+      "voucherId": "",
+      "name": "Noodle Soup",
+      "itemSubtotalPrice": 12,
+      "price": 12
+    },
+    {
+      "uniqueId": 1617963473843,
+      "productId": 101192,
+      "is_customisable": false,
+      "count": 1,
+      "voucherId": "",
+      "name": "Noodle Soup",
+      "itemSubtotalPrice": 12,
+      "price": 12
+    }
+  ],
+  "outlet_id": 58811,
+  "outletType": "delivery",
+  "merchant_id": 34333,
+  "outletName": "Bur Dubai",
+  "merchantName": "Desi Bistro"
+}

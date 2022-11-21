@@ -1,0 +1,594 @@
+{
+  "sections": [
+    {
+      "type": "theme",
+      "properties": [
+        {
+          "key": "Primary_Color",
+          "alias": "Primary Color",
+          "defaultValue": "#D1202F",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Secondary_Color",
+          "alias": "Secondary Color",
+          "defaultValue": "#F6B334",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Primary_Color_Light",
+          "alias": "Primary Color Light",
+          "defaultValue": "#D1202F15",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Background_Primary_Color",
+          "alias": "Background Primary Color",
+          "defaultValue": "white",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Background_Secondary_Color",
+          "alias": "Background Secondary Color",
+          "defaultValue": "#FAFAFA",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Background_Tertiary",
+          "alias": "Background Tertiary",
+          "defaultValue": "rgb(240, 240, 240)",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Background_Primary_Color",
+          "alias": "Header Background Primary Color",
+          "defaultValue": "white",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Background_Secondary_color",
+          "alias": "Header Background Secondary color",
+          "defaultValue": "#EDEDED",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Background_Tertiary_color",
+          "alias": "Header Background Tertiary color",
+          "defaultValue": "#EFEFF3",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Icon_Color",
+          "alias": "Header Icon Color",
+          "defaultValue": "rgb(143, 143, 143)",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Active_Tabs_Under_Line_Color",
+          "alias": "Active Tabs Underline Color",
+          "defaultValue": "#D1202F",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Bottom_Tab_Background_Color",
+          "alias": "Bottom Tab Background Color",
+          "defaultValue": "#ffffff",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Bottom_Tabs_Icon_Active_Color",
+          "alias": "Bottom Tabs Icon Active Color",
+          "defaultValue": "#F6B334",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Bottom_Tabs_Icon_InActive_Color",
+          "alias": "Bottom Tabs Icon In-Active Color",
+          "defaultValue": "#282828",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Amenities_Icon_Color",
+          "alias": "Amenities Icon Color",
+          "defaultValue": "rgb(79,153,210)",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Border_Button_Border_Color",
+          "alias": "Bordered Button Border Color",
+          "defaultValue": "#D1202F",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Border_Button_Background",
+          "alias": "Border Button Background",
+          "defaultValue": "#D1202F",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Border_Color",
+          "alias": "Border Color",
+          "defaultValue": "#C7C7C7",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Outlet_Background_Color",
+          "alias": "Outlet Item Background Color",
+          "defaultValue": "#ffffff",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Search_Icon_Background",
+          "alias": "Search Icon Background Color",
+          "defaultValue": "#808285",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Location_List_BG",
+          "alias": "Location List Background Color",
+          "defaultValue": "white",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "List_Selected_Color",
+          "alias": "List Selected Background Color",
+          "defaultValue": "#d9d9d9",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "List_Selected_Tick_Color",
+          "alias": "List Selected Tick Color",
+          "defaultValue": "#A4A5A7",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Filter_Header_BG_COLOR",
+          "alias": "Filter Header Background Color",
+          "defaultValue": "#A5A5A5",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Chechbox_Tick_Active_Color",
+          "alias": "Chechbox Tick Active Color",
+          "defaultValue": "rgb(99,197,151)",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Chechbox_Cross_Active_Color",
+          "alias": "Chechbox Cross Active Color",
+          "defaultValue": "rgb(230,116,130)",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Chechbox_Not_Active_Color",
+          "alias": "Chechbox Not Active Color",
+          "defaultValue": "transparent",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "TRAVEL_LOCATIONS_SECTION_HEADER_COLOR",
+          "alias": "Travel Locatio Section Header Color",
+          "defaultValue": "#B1975C",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Booking_Status_Background",
+          "alias": "Booking Status Background",
+          "defaultValue": "#14af65",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Booking_Detail_Background",
+          "alias": "Booking Details Background",
+          "defaultValue": "#000000",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        }
+      ]
+    },
+    {
+      "type": "typo",
+      "properties": [
+        {
+          "key": "Text_Primary_Color",
+          "alias": "Text Primary Color",
+          "defaultValue": "rgb(57,57,57)",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Text_Secondary_Color",
+          "alias": "Text Secondary Color",
+          "defaultValue": "rgb(115,115,115)",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Text_Tertiary_Color",
+          "alias": "Text Tertiary Color",
+          "defaultValue": "white",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "List_Title_Primary_Color",
+          "alias": "List Title Primary Color",
+          "defaultValue": "#000000",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "List_Title_Secondary_Color",
+          "alias": "List Title Secondary Color",
+          "defaultValue": "#999999",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "List_Subtitle_Color",
+          "alias": "List Subtitle color",
+          "defaultValue": "#484848",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Link_Color",
+          "alias": "Link Color",
+          "defaultValue": "#F6B334",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Title_Primary_Color",
+          "alias": "Header Title Primary Color",
+          "defaultValue": "black",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Header_Title_Secondary_Color",
+          "alias": "Header Title Secondary Color",
+          "defaultValue": "white",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Tabs_Title_Active_Color",
+          "alias": "Tabs Title Active Color",
+          "defaultValue": "#D1202F",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Tabs_Title_InActive_Color",
+          "alias": "Tabs Title In-Active Color",
+          "defaultValue": "rgb(163,162,162)",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Input_Background_Color",
+          "alias": "Input Field Background Color",
+          "defaultValue": "#FFFFFF",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Input_Placeholder_Color",
+          "alias": "Input Field Placeholder Color",
+          "defaultValue": "#BFBFC5",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Input_Label_Color",
+          "alias": "Input Label Color",
+          "defaultValue": "rgb(163,162,162)",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Border_Button_Text_Color",
+          "alias": "Bordered Button Text Color",
+          "defaultValue": "#ffffff",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Search_Input_Background",
+          "alias": "Input Text Color",
+          "defaultValue": "#F8F8FA",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Text_Lite_Color",
+          "alias": "Text Lite Color",
+          "defaultValue": "rgb(81,84,86)",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Location_List_Title",
+          "alias": "Location List Title",
+          "defaultValue": "#282828",
+          "description": "",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "TRAVEL_LOCATIONS_SECTION_HEADER_TITLE_COLOR",
+          "alias": "Travel Locatio Section Header Title Color",
+          "defaultValue": "white",
+          "type": "color",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        }
+      ]
+    },
+    {
+      "type": "general",
+      "properties": [
+        {
+          "key": "Global_Button_Border_Radius",
+          "alias": "Button Radius Style",
+          "defaultValue": 4,
+          "type": "buttonRadius",
+          "constraint": "options",
+          "options": ["0", "4", "8", "12", "100"],
+          "range": []
+        },
+        {
+          "key": "Global_Border_Radius",
+          "alias": "Global Border Radius",
+          "defaultValue": 4,
+          "type": "Radius",
+          "constraint": "options",
+          "options": ["0", "4", "8", "12", "100"],
+          "range": []
+        },
+        {
+          "key": "Input_Border_Color",
+          "alias": "Input Border Color",
+          "defaultValue": "#C7C7C7",
+          "type": "inputBorderColor",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "DISABLED_COLOR",
+          "alias": "Disable color",
+          "defaultValue": "#484848",
+          "type": "Button",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Checkbox_Uncheck_Color",
+          "alias": "Checkbox Uncheck Color",
+          "defaultValue": "white",
+          "type": "checkboxBorderColor",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Checkbox_Check_Color",
+          "alias": "Checkbox Check Color",
+          "defaultValue": "#F6B334",
+          "type": "checkboxTickColor",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Checkbox_BG_Color",
+          "alias": "Checkbox Background Color",
+          "defaultValue": "white",
+          "type": "checkboxBackgroundColor",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Error_Color",
+          "alias": "Error Color",
+          "defaultValue": "rgb(204, 39, 39)",
+          "type": "checkboxBackgroundColor",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "companyHeader.png",
+          "alias": "Company Header",
+          "defaultValue": "#000000",
+          "type": "image",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "second_logo.png",
+          "alias": "Secondry Logo",
+          "defaultValue": "#000000",
+          "type": "logo",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Intro_01.png",
+          "alias": "Onboarding Screen1",
+          "defaultValue": "#000000",
+          "type": "screen1",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Intro_02.png",
+          "alias": "Onboarding Screen2",
+          "defaultValue": "#000000",
+          "type": "screen2",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        },
+        {
+          "key": "Intro_03.png",
+          "alias": "Onboarding Screen3",
+          "defaultValue": "#000000",
+          "type": "screen3",
+          "constraint": "none",
+          "options": [],
+          "range": []
+        }
+      ]
+    }
+  ]
+}

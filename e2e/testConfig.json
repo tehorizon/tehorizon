@@ -1,0 +1,98 @@
+{
+  "email": "testqahorizon+hsbc1@gmail.com",
+  "password": "Qwerty123ut",
+  "schema": "cleentertainer://",
+  "deeplinks": [
+    { "name": "open" },
+    {
+      "name": "appSearch"
+    },
+    {
+      "name": "Categories"
+    },
+    {
+      "name": "Favourites"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "MerchantDetailPage?outlet_id=7128&merchant_id=3828&location_id=2"
+    },
+    {
+      "name": "Locations"
+    },
+    {
+      "name": "MyProfile"
+    },
+    {
+      "name": "QuickSearch"
+    },
+    {
+      "name": "Rateapp"
+    },
+    {
+      "name": "RedemptionHistory"
+    },
+    {
+      "name": "Tutorial"
+    },
+    {
+      "name": "Opencategory?category=FoodAndDrink"
+    },
+    {
+      "name": "Opencategory?category=BeautyAndFitness"
+    },
+    {
+      "name": "Opencategory?category=HotelsWorldwide"
+    },
+
+    {
+      "name": "Opencategory?category=AttractionsAndLeisure"
+    },
+    {
+      "name": "Opencategory?category=RetailAndServices"
+    },
+    {
+      "name": "OpenCategory?category=Travel"
+    },
+    {
+      "name": "RedemptionsBreakdown"
+    },
+    {
+      "name": "SavingsBreakdown"
+    },
+    {
+      "name": "savings"
+    },
+    {
+      "name": "filtersearch"
+    },
+    {
+      "name": "register"
+    },
+    {
+      "name": "appSearch?search=abc"
+    },
+    {
+      "name": "Notifications"
+    },
+    {
+      "name": "Wallet"
+    },
+    {
+      "name": "monthlyoffers"
+    },
+    {
+      "name": "Ruleofuse"
+    },
+    {
+      "name": "EULA"
+    },
+    {
+      "name": "MyInformation"
+    }
+  ]
+}
+
+

@@ -1,0 +1,83 @@
+{
+  "appVerison": "1",
+  "companyName": "Albilad Coupon",
+  "companyNameAr": "كوبون البلاد",
+  "company": "RPE",
+  "env": "uat",
+  "mode": "live",
+  "is_captcha_verification": true,
+  "is_signup_with_demographic": true,
+  "activeAuthTab": "Login",
+  "defaultCurrency": "AED",
+  "loginMessage": [{ "text": "" }],
+  "autoCapitalize": "words",
+  "largeOutlet": true,
+  "showHomeSectionsNames": true,
+  "showLocationsListHeader": false,
+  "showPassword": true,
+  "subscriptionAvialable": false,
+  "chat": false,
+  "cashless": false,
+  "show_phone_number": false,
+  "show_confirm_email": false,
+  "show_dob": false,
+  "show_gender": false,
+  "show_nationality": false,
+  "secondaryLogo": false,
+  "signupFields": {
+    "firstname": { "show": true, "autoCapitalize": "words" },
+    "lastname": { "show": true, "autoCapitalize": "words" },
+    "email": { "show": true, "autoCapitalize": "words" },
+    "confirmEmail": { "show": false, "autoCapitalize": "words" },
+    "password": {
+      "show": true,
+      "autoCapitalize": "none"
+    },
+    "confirmPassword": {
+      "show": true,
+      "autoCapitalize": "none"
+    },
+    "phone": {
+      "show": false,
+      "code": "+968",
+      "regex": "^[279]\\d{7}$",
+      "autoCapitalize": "characters"
+    },
+    "dob": { "show": false, "format": "DD/MM/YYYY" },
+    "gender": { "show": false },
+    "nationality": { "show": false },
+    "residence": { "show": true }
+  },
+  "demographics_form_cancelable": false,
+  "helpAndChatURL": "https://entcartut.theentertainerme.com/RPE-FAQs?language=en&no_chat",
+  "rulesOfUserURL": "https://entcartut.theentertainerme.com/RPE-rules-of-use?language=en&no_chat",
+  "hotelRuleOfuse": "https://entcartut.theentertainerme.com/RPE-Hotel-Rules-Of-Use?language=en&no_chat",
+  "ppURL": "https://entcartut.theentertainerme.com/RPE-Privacy-Policy?language=en&no_chat",
+  "eulaURL": "https://entcartut.theentertainerme.com/RPE-End-User-License-Agreement?language=en&no_chat",
+  "homeModuleConfig": { "messageTilePosition": "flex-end" },
+  "isKeyValidationEnabled": false,
+  "keyValidationGenericErrorMessage": "Sorry, we don not recognise the information you have entered. This app is for the use by Reportage Credit Card customers only  Please check your details and try again, alternatively you can call the number on the back of your HSBC Credit Card for more information.",
+  "keyValidationMessage": [
+    {
+      "text": "Welcome to the Reportage Entertainer app.",
+      "options": { "color": "#000000" }
+    },
+    {
+      "text": "Enter your 9 digit Reportage code (we have emailed your unique code to you. If you do not have a code, please call the number on the back of your HSBC Credit or Debit Card):",
+      "options": { "color": "#000000" }
+    }
+  ],
+  "sslPinningEnable": true,
+  "sslKeys": [
+    "sha256/dQOrVbsrB+UhnnJ2/JfUG08vNSl+d0cqaq5a+lgjUfI=",
+    "sha256/RB8+XBz77ol5sfc0UIXQqXMvCvY0EJOMeCZV6UEMA4A=",
+    "sha256/0ovBbqe9WhsuNP6Z+lstyovizChMupD4zZnb15qB8O4="
+  ],
+  "showIntro": false,
+  "DragnDropLayout": false,
+  "AppboyEndPoint": "sdk.iad-01.braze.com",
+  "tagLine": "",
+  "captchaDomain": "https://entcartut.theentertainerme.com/b2b-captcha",
+  "disableAnalytics": false,
+  "skipMode": true
+}
